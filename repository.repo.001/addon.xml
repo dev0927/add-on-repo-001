@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.repo.001" name="anonymous repo" version="0.1.0" provider-name="Anonymous">
 	<extension point="xbmc.addon.repository" name="Anonymous">
-		<info compressed="false">https://raw.githubusercontent.com/dev0927/add-on-repo-001/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/dev0927/add-on-repo-001/master/addons.xml.md5</checksum>
-		<datadir zip="false">https://raw.githubusercontent.com/dev0927/add-on-repo-001/master/add-on-repo-001</datadir>
+		<info compressed="false">https://raw.github.com/dev0927/add-on-repo-001/master/addons.xml</info>
+		<checksum>https://raw.github.com/dev0927/add-on-repo-001/master/addons.xml.md5</checksum>
+		<datadir zip="false">https://raw.github.com/dev0927/add-on-repo-001/master/add-on-repo-001</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>My Test XBMC addons</summary>
-		<description>My TEST XBMC addons</description>
+		<summary>My Test Kodi addons</summary>
+		<description>My TEST Kodi addons</description>
 		<platform>all</platform>
 	</extension>
 </addon>
