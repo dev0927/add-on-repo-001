@@ -33,7 +33,9 @@ if sys.version < '3':
 else:
     def u(x):
         return x
- 
+
+FPATH = ".."
+
 class Generator:
     """
         Generates a new addons.xml file from each addons addon.xml file
@@ -49,18 +51,21 @@ class Generator:
  
     def _generate_addons_file( self ):
         # addon list
-        addons = os.listdir( "." )
+        addons = os.listdir( FPATH )
         # final addons text
         addons_xml = u("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<addons>\n")
         # loop thru and add each addons addon.xml file
         for addon in addons:
             try:
+                _path = os.path.join( FPATH, addon )
                 # skip any file or .svn folder or .git folder
-                if ( not os.path.isdir( addon ) or addon == ".svn" or addon == ".git" ): continue
+                if ( not os.path.isdir( _path ) or addon == ".svn" or addon == ".git" ): continue
                 # create path
-                _path = os.path.join( addon, "addon.xml" )
+                _path = os.path.join( _path, "addon.xml" )
+                #check path is an addon
+                if (not os.path.isfile(_path)): continue
                 # split lines for stripping
-                xml_lines = open( _path, "r" , encoding="UTF-8").read().splitlines()
+                xml_lines = open(_path, "r" , encoding="UTF-8").read().splitlines()
                 # new addon
                 addon_xml = ""
                 # loop thru cleaning each line
@@ -80,20 +85,20 @@ class Generator:
         # clean and add closing tag
         addons_xml = addons_xml.strip() + u("\n</addons>\n")
         # save file
-        self._save_file( addons_xml.encode( "UTF-8" ), file="addons.xml" )
+        self._save_file( addons_xml.encode( "UTF-8" ), file="../addons.xml" )
  
     def _generate_md5_file( self ):
         # create a new md5 hash
         try:
             import md5
-            m = md5.new( open( "addons.xml", "r" ).read() ).hexdigest()
+            m = md5.new( open( "../addons.xml", "r" ).read() ).hexdigest()
         except ImportError:
             import hashlib
-            m = hashlib.md5( open( "addons.xml", "r", encoding="UTF-8" ).read().encode( "UTF-8" ) ).hexdigest()
+            m = hashlib.md5( open( "../addons.xml", "r", encoding="UTF-8" ).read().encode( "UTF-8" ) ).hexdigest()
  
         # save file
         try:
-            self._save_file( m.encode( "UTF-8" ), file="addons.xml.md5" )
+            self._save_file( m.encode( "UTF-8" ), file="../addons.xml.md5" )
         except Exception as e:
             # oops
             print("An error occurred creating addons.xml.md5 file!\n%s" % e)
