@@ -19,14 +19,19 @@ def get_plugin_version(addon_dir):
         print ('Failed to open %s' % addon_file)
         print( e.message)
 
-def create_zip_file(addon_dir, addon):
-    print("addon_dir: " + addon_dir)
-    version = get_plugin_version(addon_dir)
+def create_zip_file(fpath, addon):
+    print("addon_dir: " + addon)
+    version = get_plugin_version(os.path.join(fpath,addon))
     if not version:
         return
-    
-    with ZipFile(addon_dir + os.sep + addon + '-' + version + '.zip','w') as addonzip:
-        for root, dirs, files in os.walk(addon_dir):
+    print("version: " + version)
+    home = os.getcwd();
+    os.chdir(fpath)
+    with ZipFile(addon + os.sep + addon + '-' + version + '.zip','w') as addonzip:
+        for root, dirs, files in os.walk(addon):
+            print("Root: " + root )
+            print("Dirs: " + str(len(dirs)) )
+            print("Files: " + str(len(files)) )
             for file_path in files:
                 if file_path.endswith('.zip'):
                     continue
@@ -34,6 +39,7 @@ def create_zip_file(addon_dir, addon):
                 addonzip.write(os.path.join(root, file_path))
         addonzip.close()
 
+    os.chdir(home)
 def main(fpath):
     fpath = fpath or  "."
     print("fpath in zipgen:" + fpath)
@@ -52,7 +58,7 @@ def main(fpath):
             continue
         
         print("processing..." + addon_dir)
-        create_zip_file(directory, addon_dir)
+        create_zip_file(fpath, addon_dir)
 
 if __name__ == '__main__':
     main()
