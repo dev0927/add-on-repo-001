@@ -25,7 +25,7 @@ def create_zip_file(fpath, addon):
     if not version:
         return
     print("version: " + version)
-    home = os.getcwd();
+    home = os.getcwd()
     os.chdir(fpath)
     with ZipFile(addon + os.sep + addon + '-' + version + '.zip','w') as addonzip:
         for root, dirs, files in os.walk(addon):
