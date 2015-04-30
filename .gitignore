@@ -2,3 +2,4 @@
 .pydevproject
 *.pyc
 *.pyc
+tools/__pycache__/zipgen.cpython-34.pyc
