@@ -12,6 +12,10 @@ def config_channel(encoded_name,encoded_url):
 addon_handle = int(sys.argv[1])
 
 xbmcplugin.setContent(addon_handle, 'movies')
+
+name='SEJPMkVhc3RIRA=='
+url = 'aHR0cDovLzMxLjIyMC40MS4xMTE6ODAvTGl2ZUVkZ2UvSEJPMkVhc3RIRC9wbGF5bGlzdC5tM3U4P3Rva2VuPTVlMTEzZTYzMjdmOGU5MTU5OGU5NGUxNjYwODZlZDVj'
+config_channel(name, url)
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
 config_channel(name, url)
@@ -40,7 +44,7 @@ name='TWlhbWkgVFY='
 url = 'aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA=='
 config_channel(name, url)
 name='UGFzc2llWFhY'
-url = 'cnRtcDovLzE3OC4zMy4xMjYuMjEzL2xldmVkLyBwbGF5UGF0aD1wYXNzaWVsaXZlc3RyZWFt'
+url = 'cnRtcDovLzE3OC4zMy4xMjYuMjEzL2xldmVkLyBwbGF5UGF0aD1wYXNzaWVsaXZlc3RyZWFtIHN3ZlVybD1odHRwczovL3N0YXRpYy5yYW1wYW50LnR2L3N3Zi9wbGF5ZXIuc3dm'
 config_channel(name, url)
 name='UHJpdmF0ZQ=='
 url = 'aHR0cDovLzE3OC4zMy4xMjYuMjEzOjE5MzUvbGV2ZWQvcHJpdmF0ZUNvbS8ubTN1OA=='
