@@ -13,7 +13,6 @@ addon_handle = int(sys.argv[1])
 
 xbmcplugin.setContent(addon_handle, 'movies')
 
-config_channel(name, url)
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
 config_channel(name, url)
