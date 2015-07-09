@@ -13,8 +13,6 @@ addon_handle = int(sys.argv[1])
 
 xbmcplugin.setContent(addon_handle, 'movies')
 
-name='SEJPMkVhc3RIRA=='
-url = 'aHR0cDovLzMxLjIyMC40MS4xMTE6ODAvTGl2ZUVkZ2UvSEJPMkVhc3RIRC9wbGF5bGlzdC5tM3U4P3Rva2VuPTVlMTEzZTYzMjdmOGU5MTU5OGU5NGUxNjYwODZlZDVj'
 config_channel(name, url)
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
@@ -49,6 +47,13 @@ config_channel(name, url)
 name='UHJpdmF0ZQ=='
 url = 'aHR0cDovLzE3OC4zMy4xMjYuMjEzOjE5MzUvbGV2ZWQvcHJpdmF0ZUNvbS8ubTN1OA=='
 config_channel(name, url)
+name='VmVudXM='
+url = 'cnRtcDovLzE3My4xOTIuODEuMTcyL2FwcCBwbGF5cGF0aD0xNjgxMz9NVFF6TmpRMk16azNORHRrTUdOaFpEQXpaV0psTkRNeU9ETTBaR0ZrTmpJNU1HUXhOR1F3WldJek13PT0gc3dmVXJsPWh0dHA6Ly9jZG4uc2hpZHVybGl2ZS5jb20vcGxheWVyLnN3ZiBwYWdlVXJsPWh0dHA6Ly93d3cuc2hpZHVybGl2ZS5jb20vc3RyZWFtLzRlN2E1MTMzNGU1NDYzMzA0ZTdhNTkzMzRlNmE1OTMxNGU2ZDU1MzM0ZTU0NjQ2OC83MWM1Njc3NzFkZWY='
+config_channel(name, url)
+name='U2V4dHJlbWU='
+url = 'cnRtcDovLzIwNC40NS4xNTcuOTgvYXBwIHBsYXlwYXRoPTE2OTcxP01UUXpOalEyTmpneU5qdGhOemc1TlRFM1lXSTRNVFJrWVRJM1pUVmlOMlJpTW1FeU16RXlOV1l5TkE9PSBzd2ZVcmw9aHR0cDovL2Nkbi5zaGlkdXJsaXZlLmNvbS9wbGF5ZXIuc3dmIHBhZ2VVcmw9aHR0cDovL3d3dy5zaGlkdXJsaXZlLmNvbS9zdHJlYW0vNGU3YTUxMzM0ZTU0NjMzMDRlN2E1OTMzNGQ0NDYzNzk0ZTZhNmIzMzRlNmE1OTc4NGU2YTUxMzI1YTY3M2QzZC84YTBiYTgxNTZkOTE='
+config_channel(name, url)
+
 
 
 xbmcplugin.endOfDirectory(addon_handle)
