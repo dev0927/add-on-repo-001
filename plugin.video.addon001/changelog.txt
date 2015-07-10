@@ -1,3 +1,5 @@
+[B]Version 0.3.4 (10/07/2015):[/B]
+Testting
 [B]Version 0.3.3 (9/07/2015):[/B]
 Bug fix broken 0.3.2
 [B]Version 0.3.2 (9/07/2015):[/B]
