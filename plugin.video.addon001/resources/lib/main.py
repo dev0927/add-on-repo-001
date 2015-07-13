@@ -7,8 +7,10 @@ def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=No
 	name = encoded_name.decode('base64')
 	url = encoded_url.decode('base64')
 	li = xbmcgui.ListItem(name, iconImage='DefaultVideo.png')
-	if(info):
-		li.addStreamInfo('video', video, audio)
+	if(video):
+		li.addStreamInfo('video', video)
+	if(audio):
+		li.addStreamInfo('audio', audio)
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 	
 addon_handle = int(sys.argv[1])
