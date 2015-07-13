@@ -3,12 +3,12 @@ import sys
 import xbmcgui
 import xbmcplugin
 
-def config_channel(encoded_name,encoded_url, info=None):
+def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=None):
 	name = encoded_name.decode('base64')
 	url = encoded_url.decode('base64')
 	li = xbmcgui.ListItem(name, iconImage='DefaultVideo.png')
 	if(info):
-		li.addStreamInfo('video', info)
+		li.addStreamInfo('video', video, audio)
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 	
 addon_handle = int(sys.argv[1])
@@ -18,7 +18,7 @@ xbmcplugin.setContent(addon_handle, 'movies')
 name='VEVTVA=='
 url = 'aHR0cDovLzE5OS4xOTUuMTk1LjEwODozMjAwNQ=='
 config_channel(name, url,{ 'codec': 'h264', 'aspect': 1.78, 'width': 720,
-                            'height': 418, 'duration': 60 })
+                            'height': 418, 'duration': 60 },{'codec': 'mp4a', 'channels':2})
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
 config_channel(name, url)
