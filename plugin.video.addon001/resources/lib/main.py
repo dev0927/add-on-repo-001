@@ -17,8 +17,7 @@ xbmcplugin.setContent(addon_handle, 'movies')
 
 name='VEVTVA=='
 url = 'aHR0cDovLzE5OS4xOTUuMTk1LjEwODozMjAwNQ=='
-config_channel(name, url,{ 'codec': 'h264', 'aspect': 1.78, 'width': 720,
-                            'height': 418, 'duration': 60 },{'codec': 'mp4a', 'channels':2})
+config_channel(name, url,{ 'codec': 'h264', 'width': 720,'height': 418, 'duration': 60 },{'codec': 'mp4a', 'channels':2})
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
 config_channel(name, url)
