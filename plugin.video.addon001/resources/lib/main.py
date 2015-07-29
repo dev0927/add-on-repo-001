@@ -18,22 +18,22 @@ addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
 name='QlJBWlpFUlMgRVVST1BF'
-url = 'aHR0cDovLzIxMi4yMjAuMzAuMjE5L2hscy9DSF9CUkFaWkVSU1RWL2J3MTUwMDAwMC92YXJpYW50Lm0zdTg/dmVyc2lvbj0y'
+url = 'aHR0cDovL2hsc3N0cjAzLXN2Yy1pcHR2LmNoLm1hL2hscy9DSF9CUkFaWkVSU1RWL2J3MTUwMDAwMC92YXJpYW50Lm0zdTg/dmVyc2lvbj0y'
 config_channel(name, url)
 name='UExBWUJPWQ=='
-url = 'aHR0cDovLzIxMi4yMjAuMzAuMjE5L2hscy9DSF9QTEFZQk9ZL2J3MTUwMDAwMC92YXJpYW50Lm0zdTg/dmVyc2lvbj0y'
+url = 'aHR0cDovL2hsc3N0cjAzLXN2Yy1pcHR2LmNoLm1hL2hscy9DSF9QTEFZQk9ZL2J3MTUwMDAwMC92YXJpYW50Lm0zdTg/dmVyc2lvbj0y'
 config_channel(name, url)
 name='WFhM'
-url = 'aHR0cDovLzIxMi4yMjAuMzAuMjE5L2hscy9DSF9YWEwvYncxNTAwMDAwL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI='
+url = 'aHR0cDovL2hsc3N0cjAzLXN2Yy1pcHR2LmNoLm1hL2hscy9DSF9YWEwvYncxNTAwMDAwL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI='
 config_channel(name, url)
 name='QkxVRSBIVVNUTEVS'
-url = 'aHR0cDovLzIxMi4yMjAuMzAuMjE5L2hscy9DSF9CTFVFSFVTVExFUi9idzE1MDAwMDAvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg=='
+url = 'aHR0cDovL2hsc3N0cjAzLXN2Yy1pcHR2LmNoLm1hL2hscy9DSF9CTFVFSFVTVExFUi9idzE1MDAwMDAvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg=='
 config_channel(name, url)
 name='UlVTU0lBTiBOSUdIVA=='
-url = 'aHR0cDovLzIxMi4yMjAuMzAuMjE5L2hscy9DSF9SVVNTSUFOTklHSFQvYncxNTAwMDAwL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI='
+url = 'aHR0cDovL2hsc3N0cjAzLXN2Yy1pcHR2LmNoLm1hL2hscy9DSF9SVVNTSUFOTklHSFQvYncxNTAwMDAwL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI='
 config_channel(name, url)
 name='T0xBTEE='
-url = 'aHR0cDovLzIxMi4yMjAuMzAuMjE5L2hscy9DSF9PTEFMQS9idzE1MDAwMDAvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg=='
+url = 'aHR0cDovL2hsc3N0cjAzLXN2Yy1pcHR2LmNoLm1hL2hscy9DSF9PTEFMQS9idzE1MDAwMDAvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg=='
 config_channel(name, url)
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
@@ -77,6 +77,5 @@ config_channel(name, url)
 name='U2V4dHJlbWU='
 url = 'cnRtcDovLzUwLjcuMjguODIvYXBwIHBsYXlwYXRoPTE2OTcxP01UUXpOalUyTXpBd01qc3pNREE1TldJNFptTXpObU16TW1ReU1qRmlORFZsTVdVMU16SmtaakpoT0E9PSBzd2ZVcmw9aHR0cDovL2Nkbi5zaGlkdXJsaXZlLmNvbS9wbGF5ZXIuc3dmIHBhZ2VVcmw9aHR0cDovL3d3dy5zaGlkdXJsaXZlLmNvbS9zdHJlYW0vNGU3YTUxMzM0ZTU0NjMzMDRlN2E1OTMzNGQ0NDYzNzk0ZTZhNmIzMzRlNmE1OTc4NGU2YTUxMzI1YTY3M2QzZC82NWVmYWVhMTk1Njg='
 config_channel(name, url)
-
 
 xbmcplugin.endOfDirectory(addon_handle)
