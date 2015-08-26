@@ -1,3 +1,5 @@
+[B]Version 0.3.15(26/08/2015):[/B]
+test
 [B]Version 0.3.14(25/08/2015):[/B]
 Fix broken plugin
 [B]Version 0.3.13(25/08/2015):[/B]

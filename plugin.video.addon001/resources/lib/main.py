@@ -14,10 +14,12 @@ def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=No
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 	
 addon_handle = int(sys.argv[1])
-
 xbmcplugin.setContent(addon_handle, 'movies')
-name='QlJBWlpFUlMgRVVST1BF'
-url = 'aHR0cDovL2ZlLW53LnN2Yy5pcHR2LnJ0LnJ1L2hscy9DSF8wM19CUkFaWkVSU1RWL3ZhcmlhbnQubTN1OD92ZXJzaW9uPTI='
+
+#####################paste links here ##################################################
+
+name='VEVTVA=='
+url = 'aHR0cDovL3BvcnRhbC5yYXBpZGlwdHYuY29tOjgwODAvbGl2ZS90cmlhbC8zMjEwLzU2MDIudHM='
 config_channel(name, url)
 name='UExBWUJPWQ=='
 url = 'aHR0cDovL2ZlLW53LnN2Yy5pcHR2LnJ0LnJ1L2hscy9DSF9DMDNfUExBWUJPWS92YXJpYW50Lm0zdTg/dmVyc2lvbj0y'
@@ -88,5 +90,7 @@ config_channel(name, url)
 name='Q2FtU29kYSBQZW5ueSBOaWNob2xz'
 url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49YzYzY2RiMzAxMGFiNWVjODZhZmE4MDhhNjc3OGE3YzEvP21wNDpwZW5ueW5pY2hvbHMgc3dmVXJsPWh0dHA6Ly92anMuemVuY2RuLm5ldC80LjEyL3ZpZGVvLWpzLnN3ZiBwYWdlVXJsPWh0dHA6Ly93d3cuY2Ftc29kYS5jb20vcGVubnluaWNob2xzL2NoYXQ='
 config_channel(name, url)
+
+##############################################################################
 
 xbmcplugin.endOfDirectory(addon_handle)
