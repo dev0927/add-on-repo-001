@@ -88,3 +88,5 @@ config_channel(name, url)
 name='Q2FtU29kYSBQZW5ueSBOaWNob2xz'
 url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49YzYzY2RiMzAxMGFiNWVjODZhZmE4MDhhNjc3OGE3YzEvP21wNDpwZW5ueW5pY2hvbHMgc3dmVXJsPWh0dHA6Ly92anMuemVuY2RuLm5ldC80LjEyL3ZpZGVvLWpzLnN3ZiBwYWdlVXJsPWh0dHA6Ly93d3cuY2Ftc29kYS5jb20vcGVubnluaWNob2xzL2NoYXQ='
 config_channel(name, url)
+
+xbmcplugin.endOfDirectory(addon_handle)

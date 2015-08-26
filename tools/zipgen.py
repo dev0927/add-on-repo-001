@@ -52,7 +52,7 @@ def main(fpath):
         if(addon_dir.startswith('.')):
             # skip hidden dirs
             continue
-        ## does noting at the mnment
+        ## does nothing at the mnment
         if(addon_dir.startswith("download")):
             # skip download directory
             continue
