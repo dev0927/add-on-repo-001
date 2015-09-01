@@ -50,6 +50,9 @@ config_channel(name, url)
 name='TlVBUlQ='
 url = 'aHR0cDovLzgwLjc3LjUyLjY6MzcxOS91ZHAvMjI2LjAuNS42OjEyMzQ1'
 config_channel(name, url)
+name='VEVNUFRBVElPTg=='
+url = 'aHR0cDovLzQ2LjE4Mi4yNS4zNDoxOTM1L3R2LzE0MjAvcGxheWxpc3QubTN1OA=='
+config_channel(name, url)
 name='UExBWUJPWQ=='
 url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuMjQyOjEyMzQ='
 config_channel(name, url)
@@ -57,19 +60,22 @@ name='WFhM'
 url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuNzI6MTIzNA=='
 config_channel(name, url)
 name='T0xBTEE='
-url = 'aHR0cDovLzQ2LjE4MS4yMzcuNzU6MTIzNC91ZHAvMjM5LjI1NS40Mi4yMTk6MTIzNA=='
+url = 'aHR0cDovLzRCQTlFQkRCMDdDMDU4ODM6QDUuMTU5Ljk2LjE3MDo4MDAwL29sYWxh'
 config_channel(name, url)
 name='UlVTU0lBTiBOSUdIVA=='
 url = 'aHR0cDovLzIxMy45NS40Ny4xMDQ6ODA4MC9idHZfMDAxMTMv'
+config_channel(name, url)
+name='UkVETElHSFQgSEQ='
+url = 'aHR0cDovLzIxMy45NS40Ny4xMDQ6ODA4MC9idHZfMDAxOTAv'
+config_channel(name, url)
+name='SFVTVExFUiBIRA=='
+url = 'aHR0cDovLzIxMy45NS40Ny4xMDQ6ODA4MC9idHZfMDAxODgv'
 config_channel(name, url)
 name='TklHSFQgQ0xVQg=='
 url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuMzc6MTIzNA=='
 config_channel(name, url)
 name='UFJJVkFURSBHT0xE'
 url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuMjMxOjEyMzQ='
-config_channel(name, url)
-name='UkVETElHSFQ='
-url = 'aHR0cDovLzIxMy45NS40Ny4xMDQ6ODA4MC9idHZfMDAxOTAv'
 config_channel(name, url)
 name='UEVOVEhPVVNFIEhE'
 url = 'aHR0cDovLzgyLjE0Ni4yMC45ODoxMjM0L3VkcC8yMzkuMTMwLjUwLjEyNDo5MDAx'
@@ -89,14 +95,11 @@ config_channel(name, url)
 name='U0VYVE8gNiBTRU5TTw=='
 url = 'aHR0cDovLzgyLjE0Ni4yMC45ODoxMjM0L3VkcC8yMzkuMTMwLjUwLjEyNjo5MDAx'
 config_channel(name, url)
-name='SFVTVExFUiBIRA=='
-url = 'aHR0cDovLzIxMy45NS40Ny4xMDQ6ODA4MC9idHZfMDAxODgv'
-config_channel(name, url)
 name='RlJFQ0hMT1ZFUg=='
 url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuNTA6MTIzNA=='
 config_channel(name, url)
 name='QlJBWlpFUlMgRVVST1BF'
-url = 'aHR0cDovLzQ2LjE4Mi4yNS4zNDoxOTM1L3R2LzE0MjAvcGxheWxpc3QubTN1OA=='
+url = 'aHR0cDovLzRCQTlFQkRCMDdDMDU4ODM6QDUuMTU5Ljk2LjE3MDo4MDAwL2JyYXp6ZXJz'
 config_channel(name, url)
 name='Q0FORFk='
 url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuMjI1OjEyMzQ='
@@ -185,17 +188,24 @@ config_channel(name, url)
 name='Q2FtU29kYSBNYWxsb3J5IE1hZGlzb24='
 url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6bWFsbG9yeW1hZGlzb24xOTk1'
 config_channel(name, url)
+name='QWRyaWFuIE1heWE='
+url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6YWRyYWlubWF5YXh4eA=='
+config_channel(name, url)
+name='UmVhZ2FuIE1vbnJvZQ=='
+url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6cmVhZ2FubW9ucm9l'
+config_channel(name, url)
+name='QnJpdHRhbnkgU2hhZQ=='
+url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6YnJpdHRhbnlzaGFl'
+config_channel(name, url)
 name='Q2FtU29kYSBLZWVseSBKb25lcw=='
-url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6a2VlbHlqb25lcyBzd2ZVcmw9aHR0cDovL3Zqcy56ZW5jZG4ubmV0LzQuMTIvdmlkZW8tanMuc3dmIHBhZ2VVcmw9aHR0cDovL3d3dy5jYW1zb2RhLmNvbS9rZWVseWpvbmVzL2NoYXQ='
+url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6a2VlbHlqb25lcw=='
 config_channel(name, url)
 name='Q2FtU29kYSBSeWFuIEhhcnQ='
-url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6cnlhbmhhcnQgc3dmVXJsPWh0dHA6Ly92anMuemVuY2RuLm5ldC80LjEyL3ZpZGVvLWpzLnN3ZiBwYWdlVXJsPWh0dHA6Ly93d3cuY2Ftc29kYS5jb20vcnlhbmhhcnQvY2hhdA=='
+url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6cnlhbmhhcnQ='
 config_channel(name, url)
 name='Q2FtU29kYSBQZW5ueSBOaWNob2xz'
-url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6cGVubnluaWNob2xzIHN3ZlVybD1odHRwOi8vdmpzLnplbmNkbi5uZXQvNC4xMi92aWRlby1qcy5zd2YgcGFnZVVybD1odHRwOi8vd3d3LmNhbXNvZGEuY29tL3Blbm55bmljaG9scy9jaGF0'
+url = 'cnRtcDovL3ZpZDEuY2Ftc29kYS5jb206MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6cGVubnluaWNob2xz'
 config_channel(name, url)
-
-
 ##############################################################################
 
 xbmcplugin.endOfDirectory(addon_handle)
