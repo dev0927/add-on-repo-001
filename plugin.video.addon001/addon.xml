@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.addon001" name="Test Video Addon" version="0.3.23" provider-name="Anonymous">
+<addon id="plugin.video.addon001" name="Test Video Addon" version="0.3.24" provider-name="Anonymous">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
