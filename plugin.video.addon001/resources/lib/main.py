@@ -17,6 +17,7 @@ addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
 #####################paste links here ##################################################
+
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
 config_channel(name, url)
@@ -53,6 +54,9 @@ config_channel(name, url)
 name='UlVTU0lBTiBOSUdIVA=='
 url = 'aHR0cDovL3NmdHI4OWVuLmVkZW0udHYvaXB0di80RUI1U1dXRTRLOTVFUS8xNDcvaW5kZXgubTN1OA=='
 config_channel(name, url)
+name='SFVTVExFUiBIRA=='
+url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjg5LmNo'
+config_channel(name, url)
 name='QlJBWlpFUlMgRVVST1BF'
 url = 'aHR0cDovLzE1OS4yNTUuMTg1LjIzOTo1NTU1L3VkcC8yMzEuMS4xLjE5MzoxMjM0'
 config_channel(name, url)
@@ -67,6 +71,21 @@ url = 'aHR0cDovL2NkbjUuaXZpcGxhbmV0LmNvbToxOTM1L1RWTUlBLUFSRy1WT0RMaXZlMy9zbWlsO
 config_channel(name, url)
 name='VFZNSUEtQVJHLVZPRCA0'
 url = 'aHR0cDovL2NkbjUuaXZpcGxhbmV0LmNvbToxOTM1L1RWTUlBLUFSRy1WT0RMaXZlNC9zbWlsOnR2bWlhLWFyZy12b2RsaXZlNC5zbWlsL3BsYXlsaXN0Lm0zdTg='
+config_channel(name, url)
+name='WFhYIDI4Mg=='
+url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjgyLmNo'
+config_channel(name, url)
+name='UElOSyBFUk9USUMgMg=='
+url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjg4LmNo'
+config_channel(name, url)
+name='UElOSyBFUk9USUMgMw=='
+url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjg3LmNo'
+config_channel(name, url)
+name='UElOSyBFUk9USUMgNA=='
+url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjg2LmNo'
+config_channel(name, url)
+name='TWVpZGVuIHZvbiBIb2xsYW5kIEhhcmQ='
+url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjkwLmNo'
 config_channel(name, url)
 name='Q2FtU29kYSBLaXRjaGVu'
 url = 'aHR0cDovLzE5OS44OC41OS4yNDQ6MTkzNS9jYW1ob3VzZS9jYW1ob3VzZS1raXRjaGVuLnN0cmVhbS9wbGF5bGlzdC5tM3U4'
@@ -230,7 +249,6 @@ config_channel(name, url)
 name='Q2FtU29kYSBTbm93IEJ1bm55'
 url = 'cnRtcDovLzE5OS44OC41OS4yNDQ6MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6c25vdy1idW5ueQ=='
 config_channel(name, url)
-
 
 
 ##############################################################################
