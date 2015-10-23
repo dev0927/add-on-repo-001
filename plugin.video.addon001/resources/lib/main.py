@@ -17,7 +17,6 @@ addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
 #####################paste links here ##################################################
-
 name='VklFVC1TRVg='
 url = 'cnRtcDovLzY0LjYyLjE0My41L2xpdmUvZG8lMjBub3QlMjBzdGVhbCUyMG15LVN0cmVhbTI='
 config_channel(name, url)
@@ -55,10 +54,22 @@ name='UlVTU0lBTiBOSUdIVA=='
 url = 'aHR0cDovL3NmdHI4OWVuLmVkZW0udHYvaXB0di80RUI1U1dXRTRLOTVFUS8xNDcvaW5kZXgubTN1OA=='
 config_channel(name, url)
 name='SFVTVExFUiBIRA=='
-url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjg5LmNo'
+url = 'aHR0cDovLzg0LjIzOC4yMjcuMTc6MTIzNC91ZHAvMjM5LjEzMC41MC4xMzI6OTAwMQ=='
+config_channel(name, url)
+name='TklHSFQgQ0xVQg=='
+url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuMzc6MTIzNA=='
+config_channel(name, url)
+name='UFJJVkFURSBHT0xE'
+url = 'aHR0cDovL3N0cmVhbWVyLnNpYmluZXQuY29tOjgwMDgvdWRwLzIzOS4yNTQuMi4yMzE6MTIzNA=='
+config_channel(name, url)
+name='RlJFQ0hMT1ZFUg=='
+url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuNTA6MTIzNA=='
 config_channel(name, url)
 name='QlJBWlpFUlMgRVVST1BF'
 url = 'aHR0cDovLzE1OS4yNTUuMTg1LjIzOTo1NTU1L3VkcC8yMzEuMS4xLjE5MzoxMjM0'
+config_channel(name, url)
+name='Q0FORFk='
+url = 'aHR0cDovLzg5LjI1MS43My4yMDo0MDIyL3VkcC8yMzkuMjU0LjIuMjI1OjEyMzQ='
 config_channel(name, url)
 name='VFZNSUEtQVJHLVZPRCAx'
 url = 'aHR0cDovL2NkbjUuaXZpcGxhbmV0LmNvbToxOTM1L1RWTUlBLUFSRy1WT0RMaXZlMS9zbWlsOnR2bWlhLWFyZy12b2RsaXZlMS5zbWlsL3BsYXlsaXN0Lm0zdTg='
@@ -83,6 +94,24 @@ url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc
 config_channel(name, url)
 name='UElOSyBFUk9USUMgNA=='
 url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjg2LmNo'
+config_channel(name, url)
+name='UEVOVEhPVVNFIEhE'
+url = 'aHR0cDovLzg0LjIzOC4yMjcuMTc6MTIzNC91ZHAvMjM5LjEzMC41MC4xMjQ6OTAwMQ=='
+config_channel(name, url)
+name='VEdJUkxT'
+url = 'aHR0cDovLzg0LjIzOC4yMjcuMTc6MTIzNC91ZHAvMjM5LjEzMC41MC4xMjc6OTAwMQ=='
+config_channel(name, url)
+name='U0FUSVNGQUNUSU9O'
+url = 'aHR0cDovLzg0LjIzOC4yMjcuMTc6MTIzNC91ZHAvMjM5LjEzMC41MC4xMjg6OTAwMQ=='
+config_channel(name, url)
+name='U0NU'
+url = 'aHR0cDovLzg0LjIzOC4yMjcuMTc6MTIzNC91ZHAvMjM5LjEzMC41MC4xMjk6OTAwMQ=='
+config_channel(name, url)
+name='UElOS08gVFY='
+url = 'aHR0cDovLzg0LjIzOC4yMjcuMTc6MTIzNC91ZHAvMjM5LjEzMC41MC4xMzA6OTAwMQ=='
+config_channel(name, url)
+name='U0VYVE8gNiBTRU5TTw=='
+url = 'aHR0cDovLzg0LjIzOC4yMjcuMTc6MTIzNC91ZHAvMjM5LjEzMC41MC4xMjY6OTAwMQ=='
 config_channel(name, url)
 name='TWVpZGVuIHZvbiBIb2xsYW5kIEhhcmQ='
 url = 'aHR0cDovLzg5LjE2My4xNDQuMTgxOjgwMDAvemFQYXZlbG92dUdydXB1L2dyb3Vwc2NpZWZwc2V0dGluZ3MvMjkwLmNo'
