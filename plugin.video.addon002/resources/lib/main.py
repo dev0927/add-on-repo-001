@@ -20,10 +20,11 @@ addon_handle = int(sys.argv[1])
 
 ## put up waiting dialog
 
-html_list_resolver.item_resolver('aHR0cDovL2hkZnVsbGhkLmV1L0FEVUxULnR4dA==')
+items = html_list_resolver.item_resolver('aHR0cDovL2hkZnVsbGhkLmV1L0FEVUxULnR4dA==')
 
 xbmcplugin.setContent(addon_handle, 'movies')
 
-
+for item in items:
+	config_channel(item.name, item.url)
 
 xbmcplugin.endOfDirectory(addon_handle)

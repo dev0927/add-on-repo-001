@@ -1,3 +1,5 @@
+[B]Version 0.0.7(30/12/2015):[/B]
+bug fix
 [B]Version 0.0.6(30/12/2015):[/B]
 bug fix
 [B]Version 0.0.5(29/12/2015):[/B]
