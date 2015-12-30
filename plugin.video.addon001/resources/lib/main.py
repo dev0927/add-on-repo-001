@@ -5,7 +5,7 @@ import xbmcplugin
 
 
 def resolve_pbr(url):
-	return {'name':'TWlhbWkgVFY=', 'url':'aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA=='}
+	return {name:'TWlhbWkgVFY=', url:'aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA=='}
 
 def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=None, icon=None):
 	name = encoded_name.decode('base64')

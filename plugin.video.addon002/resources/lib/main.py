@@ -2,7 +2,7 @@
 import sys
 import xbmcgui
 import xbmcplugin
-import html_item_parser
+import html_item_resolver
 
 def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=None, icon=None):
 	name = encoded_name.decode('base64')
