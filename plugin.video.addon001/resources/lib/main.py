@@ -23,7 +23,7 @@ def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=No
 addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
-pbr_resolved = resolve_pbr()
+pbr_resolved = resolve_pbr('blah')
 config_channel(pbr_resolved.name, pbr_resolved.url);
 
 
