@@ -27,7 +27,7 @@ addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
 pbr_resolved = resolve_pbr('blah')
-config_channel(pbr_resolved.name, pbr_resolved.url);
+config_channel(pbr_resolved['name'], pbr_resolved['url']);
 
 
 #####################paste links here ##################################################

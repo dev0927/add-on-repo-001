@@ -47,7 +47,7 @@ def item_resolver(encoded_url):
 
     return list
 
-print(item_resolver('aHR0cDovL2hkZnVsbGhkLmV1L0FEVUxULnR4dA=='))
+#print(item_resolver('aHR0cDovL2hkZnVsbGhkLmV1L0FEVUxULnR4dA=='))
 #print(pbr_resolver("http://verdirectotv.com/canales/hustlertv.html"))
 #print(pbr_resolver("http://verdirectotv.com/tv/xxx2/playboy.html"))
 #print(pbr_resolver("http://cinestrenostv.tv/canales/emision/hustlertv.html"))
