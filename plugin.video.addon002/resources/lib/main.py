@@ -20,7 +20,7 @@ addon_handle = int(sys.argv[1])
 
 ## put up waiting dialog
 
-item_resolver('aHR0cDovL2hkZnVsbGhkLmV1L0FEVUxULnR4dA==')
+html_list_resolver.item_resolver('aHR0cDovL2hkZnVsbGhkLmV1L0FEVUxULnR4dA==')
 
 xbmcplugin.setContent(addon_handle, 'movies')
 
