@@ -25,6 +25,6 @@ items = html_list_resolver.item_resolver('aHR0cDovL2hkZnVsbGhkLmV1L0FEVUxULnR4dA
 xbmcplugin.setContent(addon_handle, 'movies')
 
 for item in items:
-	config_channel(item.name, item.url)
+	config_channel(item['name'], item['url'])
 
 xbmcplugin.endOfDirectory(addon_handle)
