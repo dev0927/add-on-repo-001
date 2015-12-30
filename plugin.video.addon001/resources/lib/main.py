@@ -3,7 +3,11 @@ import sys
 import xbmcgui
 import xbmcplugin
 
-def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=None):
+
+def resolve_pbr(url):
+	return {'name':'TWlhbWkgVFY=', 'url':'aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA=='}
+
+def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=None, icon=None):
 	name = encoded_name.decode('base64')
 	url = encoded_url.decode('base64')
 	li = xbmcgui.ListItem(name, iconImage='DefaultVideo.png')
@@ -11,10 +15,17 @@ def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=No
 		li.addStreamInfo('video', video)
 	if(audio):
 		li.addStreamInfo('audio', audio)
+	if(icon):
+		li.setIconImage(icon)
 	xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
 	
 addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
+
+pbr_resolved = resolve_pbr()
+config_channel(pbr_resolved.name, pbr_resolved.url);
+
 
 #####################paste links here ##################################################
 name='TWlhbWkgVFY='
@@ -35,17 +46,20 @@ config_channel(name, url)
 name='QlJBWlpFUlMgRVU='
 url = 'aHR0cDovLzRCQTlFQkRCMDdDMDU4ODM6QDUuMTU5Ljk2LjE3MDo4MDAwL2JyYXp6ZXJz'
 config_channel(name, url)
+name='TlVBUlQ='
+url = 'aHR0cDovLzgwLjc3LjUyLjY6ODE4MS91ZHAvMjI2LjEuNS42OjEyMzQ1'
+config_channel(name, url)
 name='VEVNUFRBVElPTg=='
 url = 'aHR0cDovLzQ2LjE4Mi4yNS4zNDoxOTM1L3R2LzE0MjAvcGxheWxpc3QubTN1OA=='
 config_channel(name, url)
 name='UExBWUJPWSAoRURFTSk='
 url = 'aHR0cDovL3NmdHI4OWVuLmVkZW0udHYvaXB0di80RUI1U1dXRTRLOTVFUS81MjcvaW5kZXgubTN1OA=='
 config_channel(name, url)
-name='UlVTU0lBTiBOSUdIVA=='
+name='UlVTU0lBTiBOSUdIVCAoRURFTSk='
 url = 'aHR0cDovL3NmdHI4OWVuLmVkZW0udHYvaXB0di80RUI1U1dXRTRLOTVFUS8xNDcvaW5kZXgubTN1OA=='
 config_channel(name, url)
 name='UkVETElHSFQgSEQ='
-url = 'aHR0cDovLzQ2LjQ3LjAuMjM4Ojg4OTAvcnRwLzIyNC4yNDQuMjQ0LjE1NzoxOTk5Mw=='
+url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMTExL3N0b2xlbi8wNTJ3L3J1dGtpdC5leGU='
 config_channel(name, url)
 name='SFVTVExFUiBIRA=='
 url = 'aHR0cDovLzE3OC4yMS4xMjAuMTk4OjE5MzUvbGl2ZTMvX2RlZmluc3RfL21wNDpodXN0bGVyaGQvcGxheWxpc3QubTN1OA=='
@@ -56,8 +70,14 @@ config_channel(name, url)
 name='TklHSFQgQ0xVQg=='
 url = 'aHR0cDovLzUuMTg5LjAuNjo0MDIyLy91ZHAvMjM5LjI1NS4yLjM3OjEyMzQ='
 config_channel(name, url)
-name='UFJJVkFURQ=='
-url = 'aHR0cDovLzE3OC4yMS4xMjAuMTk4OjE5MzUvbGl2ZTMvX2RlZmluc3RfL21wNDpwcml2YXRldHYvcGxheWxpc3QubTN1OA=='
+name='UFJJVkFURSBHT0xE'
+url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMzQxL3N0b2xlbi80ODJ4L2RlbGV0ZS5wcm9ncmFtbTMyX3N0YXJ0Lm5zaXM='
+config_channel(name, url)
+name='SE9U'
+url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjAxL3N0b2xlbi8yNTJ4L3hlbml4b3MuN3o='
+config_channel(name, url)
+name='RXhvdGljYQ=='
+url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjgxL3N0b2xlbi8zNjdnL3JhaW5ib3cudWRm'
 config_channel(name, url)
 name='RlJFQ0hMT1ZFUg=='
 url = 'aHR0cDovLzEwOS4yMjYuMjIyLjE2MTo0MDIyL3VkcC8yMzkuMjU1LjUuNjoxMjM0'
