@@ -3,12 +3,7 @@ import sys
 import xbmcgui
 import xbmcplugin
 
-
-def resolve_pbr(url):
-	d = {}
-	d['name']='TWlhbWkgVFY='
-	d['url'] ='aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA=='
-	return d
+## a flat single directory style plugin
 
 def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=None, icon=None):
 	name = encoded_name.decode('base64')
@@ -25,10 +20,6 @@ def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=No
 	
 addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
-
-pbr_resolved = resolve_pbr('blah')
-config_channel(pbr_resolved['name'], pbr_resolved['url']);
-
 
 #####################paste links here ##################################################
 name='TWlhbWkgVFY='
@@ -305,7 +296,5 @@ name='Q2FtU29kYSBTbm93IEJ1bm55'
 url = 'cnRtcDovLzE5OS44OC41OS4yNDQ6MTkzNS9jYW0/dG9rZW49eHh4Lz9tcDQ6c25vdy1idW5ueQ=='
 config_channel(name, url)
 
-
 ##############################################################################
-
 xbmcplugin.endOfDirectory(addon_handle)

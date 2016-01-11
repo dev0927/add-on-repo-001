@@ -1,5 +1,6 @@
 import urllib,urllib2, re,base64, time, math
 from HTMLParser import HTMLParser
+from pydoc import pager
 
 def get_src(word, txt):
     regexpstr = word + "'?[ :=]+['\"]?([^ ',\"]+)" 
@@ -94,8 +95,8 @@ def pbr_resolver(url):
     response = opener.open(req)
     page = response.read()
     ####diag
-    print '====' + url + "==========="
-    print page
+    #print '====' + url + "==========="
+    #print page
     ###diag#end
     return _resolve(page, url, opener)
 
@@ -114,7 +115,7 @@ def _resolve(page, url, opener):
                 pageUrl = i
     else :
         pageUrl = pageUrl[0]
-    print('====' + pageUrl + '========')
+    #print('====' + pageUrl + '========')
     req = urllib2.Request(pageUrl)
     req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0')
     req.add_header("Connection", "keep-alive")
@@ -124,7 +125,7 @@ def _resolve(page, url, opener):
 
     page=response.read()
     
-    print(page)
+    #print(page)
     
     p = VerdirectoParser()
     p.reset()
@@ -137,7 +138,10 @@ def _resolve(page, url, opener):
         req.add_header("Connection", "keep-alive")
         req.add_header("Referer", pageUrl)
         response = opener.open(req)
+        #print('====' + sUrl + '========')
         page=response.read()
+        
+        #print(page)
         p =  IFrameSrcParser()
         p.reset()
         p.feed(str(page))
@@ -232,7 +236,7 @@ def get_stream_parameters_remote(opener, src, referer=None):
     _file = re.sub(r"\\","", _file)
 
     ##kodi style
-    kodistream = streamer + " playpath=" + _file +  " swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=" + referer + " app=" + app + " flashVer=\"LNX 10,0,32,18\"" 
+    kodistream = streamer + " playpath=" + _file +  " swfUrl=http://tv.verdirectotv.org/jwplayer5/addplayer/jwplayer.flash.swf  pageUrl=" + referer + " app=" + app + " flashVer=\"LNX 10,0,32,18\"" 
     return kodistream
     
 def get_stream_parameters(src, iParser, pageUrl):    
@@ -270,12 +274,12 @@ def get_stream_parameters(src, iParser, pageUrl):
     regexpstr = r"rtmpe?:\/\/[0-9.:/]+(.+)"
     app = re.findall(regexpstr, streamer)[0]
     ##kodi style
-    kodistream = streamer + " playpath=" + _file +  " swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=" + pageUrl 
+    kodistream = streamer + " playpath=" + _file +  " swfUrl=http://tv.verdirectotv.org/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=" + pageUrl 
    
     return kodistream
    
 
-print(pbr_resolver("http://cinestrenostv.tv/canales/nacionales/hustlertv.php"))
+#print(pbr_resolver("http://cinestrenostv.tv/canales/nacionales/hustlertv.php"))
 #print(pbr_resolver("http://verdirectotv.com/canales/hustlertv.html"))
 #print(pbr_resolver("http://verdirectotv.com/tv/xxx2/playboy.html"))
 #print(pbr_resolver("http://cinestrenostv.tv/canales/emision/hustlertv.html"))

@@ -4,6 +4,8 @@ import xbmcgui
 import xbmcplugin
 import html_list_resolver
 
+#simple single list of items
+
 def config_channel(encoded_name,encoded_url, video=None, audio=None, subtitle=None, icon=None):
 	name = encoded_name.decode('base64')
 	url = encoded_url.decode('base64')
