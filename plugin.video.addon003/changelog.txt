@@ -1,2 +1,4 @@
 [B]Version 0.0.1(9/1/2016):[/B]
 add plugin
+[B]Version 0.0.1(11/1/2016):[/B]
+fix plugin name collision?
