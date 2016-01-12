@@ -71,6 +71,8 @@ def create_list():
     
     ## add channels
     add('TWlhbWkgVFY=','aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA==')
+    add('UGxheWJveSBSZWQ=','aHR0cDovL2NpbmVzdHJlbm9zdHYudHYvY2FuYWxlcy94eHgvcGxheWJveS5waHA=','pbr_resolver')
+    add('SHVzdGxlciBIRA==','aHR0cDovL2NpbmVzdHJlbm9zdHYudHYvY2FuYWxlcy9uYWNpb25hbGVzL2h1c3RsZXJ0di5waHA=', resolver='pbr_resolver')
 
     
     xbmcplugin.endOfDirectory(addon_handle)
@@ -85,7 +87,7 @@ def router(paramstring):
         url = params['video']
         if params['action'] == 'play':
             # Play a video from a provided URL.
-            if params['resolver']!= None:
+            if params['resolver']!= None and params['resolver']!='None':
                 url = locals()[params['resolver']](url)
             play_video(url)
         #elif params['action'] == 'listing':

@@ -278,7 +278,6 @@ def get_stream_parameters(src, iParser, pageUrl):
    
     return kodistream
    
-
 #print(pbr_resolver("http://cinestrenostv.tv/canales/nacionales/hustlertv.php"))
 #print(pbr_resolver("http://verdirectotv.com/canales/hustlertv.html"))
 #print(pbr_resolver("http://verdirectotv.com/tv/xxx2/playboy.html"))
