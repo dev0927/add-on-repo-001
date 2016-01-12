@@ -6,6 +6,8 @@ import xbmcplugin
 
 # Get the plugin url in plugin:// notation.
 _url = sys.argv[0]
+
+print(_url)
 # Get the plugin handle as an integer number.
 addon_handle = int(sys.argv[1])
 
@@ -57,9 +59,6 @@ def play(name,streamurl,iconimage = "DefaultVideo.png"):
 	
 #from example
 def play_video(path):
-    if debug :
-        print(path)
-        return
    # Create a playable item with a path to play.
     play_item = xbmcgui.ListItem(path=path)
     # Pass the item to the Kodi player.
@@ -102,5 +101,4 @@ if __name__ == '__main__':
 	# Call the router function and pass the plugin call parameters to it.
 	# We use string slicing to trim the leading '?' from the plugin call paramstring
 	router(sys.argv[2][1:])
-    
     
