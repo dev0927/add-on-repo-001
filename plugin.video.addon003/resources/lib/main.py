@@ -73,7 +73,7 @@ def create_list():
     add('TWlhbWkgVFY=','aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA==')
 
     
-    xbmcplugin.endOfDirectory(_handle)
+    xbmcplugin.endOfDirectory(addon_handle)
 
 def router(paramstring):
     
