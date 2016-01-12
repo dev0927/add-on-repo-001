@@ -14,7 +14,7 @@ addon_handle = int(sys.argv[1])
 
 
 #TODO Add singly now but would be more efficient to add all at once with addDirectoryItems instead reconfigure how items identified/stored See example plugin 
-def add(name, url, resolver=None, thumb=None, fanArt=None, title=None):
+def add(encoded_name, encoded_url, resolver=None, thumb=None, fanArt=None, title=None):
          # Example: plugin://plugin.video.example/?action=play&video=http://www.vidsplay.com/vids/crab.mp4
     name = encoded_name.decode('base64')
     url = encoded_url.decode('base64')
