@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.addon002" name="Listed Video Addon" version="0.0.8" provider-name="Anonymous">
+<addon id="plugin.video.addon002" name="Listed Video Addon" version="0.0.9" provider-name="Anonymous">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,8 +9,8 @@
   <extension point="xbmc.addon.metadata">
     <language>en</language>
     <platform>all</platform>
-    <summary lang="en">Test addon</summary>
-    <description lang="en">TEST Addon</description>
+    <summary lang="en">Test List Addon</summary>
+    <description lang="en">Test List Addon</description>
 	<disclaimer lang="en">The owners and submitters to this addon do not host or distribute any of the content displayed nor do they have any affiliation with the content providers.</disclaimer>
     <platform>all</platform>
   </extension>

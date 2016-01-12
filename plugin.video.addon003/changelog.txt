@@ -1,6 +1,8 @@
-[B]Version 0.0.1(9/1/2016):[/B]
-add plugin
-[B]Version 0.0.2(11/1/2016):[/B]
-fix plugin name collision?
+[B]Version 0.0.4(12/1/2016):[/B]
+clean up addon xml
 [B]Version 0.0.3(11/1/2016):[/B]
 try it again?
+[B]Version 0.0.2(11/1/2016):[/B]
+fix plugin name collision?
+[B]Version 0.0.1(9/1/2016):[/B]
+add plugin

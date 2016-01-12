@@ -1,3 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.addon001" name="Test Video Addon" version="0.4.2" provider-name="Anonymous">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="resources/lib/main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>all</platform>
+    <summary lang="en">Test addon</summary>
+    <description lang="en">TEST Addon</description>
+	<disclaimer lang="en">The owners and submitters to this addon do not host or distribute any of the content displayed nor do they have any affiliation with the content providers.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.addon002" name="Listed Video Addon" version="0.0.9" provider-name="Anonymous">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="resources/lib/main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>all</platform>
+    <summary lang="en">Test List Addon</summary>
+    <description lang="en">Test List Addon</description>
+	<disclaimer lang="en">The owners and submitters to this addon do not host or distribute any of the content displayed nor do they have any affiliation with the content providers.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.addon003" name="Example Video Addon" version="0.0.3" provider-name="Anonymous">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="resources/lib/main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>all</platform>
+    <summary lang="en">Exmaple Addon</summary>
+    <description lang="en">Example Channels Addon</description>
+	<disclaimer lang="en">The owners and submitters to this addon do not host or distribute any of the content displayed nor do they have any affiliation with the content providers.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.001x" name="Repo 001" version="0.1.1" provider-name="Anonymous">
+	<extension point="xbmc.addon.repository" name="Repo 001">
+		<info compressed="false">http://raw.github.com/dev0927/add-on-repo-001/master/addons.xml</info>
+		<checksum>http://raw.github.com/dev0927/add-on-repo-001/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/dev0927/add-on-repo-001/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>My Test Kodi addons</summary>
+		<description>My TEST Kodi addons</description>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>

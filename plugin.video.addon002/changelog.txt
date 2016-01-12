@@ -1,3 +1,5 @@
+[B]Version 0.0.9(12/1/2016):[/B]
+clean up addon xml
 [B]Version 0.0.8(30/12/2015):[/B]
 bug fix
 [B]Version 0.0.7(30/12/2015):[/B]

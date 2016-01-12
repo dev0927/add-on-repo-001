@@ -9,8 +9,8 @@
   <extension point="xbmc.addon.metadata">
     <language>en</language>
     <platform>all</platform>
-    <summary lang="en">Test addon</summary>
-    <description lang="en">Channels Addon</description>
+    <summary lang="en">Exmaple Addon</summary>
+    <description lang="en">Example Channels Addon</description>
 	<disclaimer lang="en">The owners and submitters to this addon do not host or distribute any of the content displayed nor do they have any affiliation with the content providers.</disclaimer>
     <platform>all</platform>
   </extension>
