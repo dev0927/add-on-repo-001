@@ -75,7 +75,7 @@ def create_list():
     
     xbmcplugin.endOfDirectory(_handle)
 
-def router():
+def router(paramstring):
     
     	# Parse a URL-encoded paramstring to the dictionary of
     # {<parameter>: <value>} elements

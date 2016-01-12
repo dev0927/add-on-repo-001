@@ -34,7 +34,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.addon003" name="Example Video Addon" version="0.0.3" provider-name="Anonymous">
+<addon id="plugin.video.addon003" name="Example Video Addon" version="0.0.5" provider-name="Anonymous">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
