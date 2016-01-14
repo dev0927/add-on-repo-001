@@ -22,15 +22,11 @@ addon_handle = int(sys.argv[1])
 xbmcplugin.setContent(addon_handle, 'movies')
 
 #####################paste links here ##################################################
-
 name='TWlhbWkgVFY='
 url = 'aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA=='
 config_channel(name, url)
 name='UGFzc2llWFhY'
 url = 'cnRtcDovLzE3OC4zMy4xMjYuMjEzL2xldmVkLyBwbGF5UGF0aD1wYXNzaWVsaXZlc3RyZWFtIHN3ZlVybD1odHRwczovL3N0YXRpYy5yYW1wYW50LnR2L3N3Zi9wbGF5ZXIuc3dm'
-config_channel(name, url)
-name='UGFzc2llWFhYIEhE'
-url = 'aHR0cDovLzQ2LjQ3LjAuMjM4Ojg4OTAvcnRwLzIyNC4yNDQuMjQ0LjE5NDoxOTk5Mw=='
 config_channel(name, url)
 name='UHJpdmF0ZQ=='
 url = 'aHR0cDovLzE3OC4zMy4xMjYuMjEzOjE5MzUvbGV2ZWQvcHJpdmF0ZUNvbS8ubTN1OA=='
@@ -63,7 +59,7 @@ name='UkVETElHSFQgSEQ='
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMTExL3N0b2xlbi8wNTJ3L3J1dGtpdC5leGU='
 config_channel(name, url)
 name='UEFTU0lPTiBYWFg='
-url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMTExL3N0b2xlbi8wNTNlL3J1dGtpdC5leGU='
+url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjgxL3N0b2xlbi8zNzJzL3JhaW5ib3cudWRm'
 config_channel(name, url)
 name='SFVTVExFUiBIRA=='
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMTExL3N0b2xlbi8wNTNlL3J1dGtpdC5leGU='
@@ -75,7 +71,7 @@ name='UFJJVkFURSBHT0xE'
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMzQxL3N0b2xlbi80ODJ4L2RlbGV0ZS5wcm9ncmFtbTMyX3N0YXJ0Lm5zaXM='
 config_channel(name, url)
 name='RE9SQ0VM'
-url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjkxL3N0b2xlbi8zODR3L2hvdC5kbGw='
+url = 'aHR0cDovLzg3LjI0Ni4wLjEzNDo1OTM0OS90dl9Eb3JjZWxfVFY='
 config_channel(name, url)
 name='SE9U'
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjAxL3N0b2xlbi8yNTJ4L3hlbml4b3MuN3o='
@@ -108,7 +104,7 @@ name='RlJFQ0hMT1ZFUg=='
 url = 'aHR0cDovLzQ2LjE4MS4yMzcuNzU6MTIzNC91ZHAvMjM5LjI1NS40Mi4yMjM6MTIzNA=='
 config_channel(name, url)
 name='WFhM'
-url = 'aHR0cDovLzQ2LjE4MS4yMzcuNzU6MTIzNC91ZHAvMjM5LjI1NS40Mi4yMjQ6MTIzNA=='
+url = 'aHR0cDovLzg3LjI0Ni4wLjEzNDo1OTM0OS90dl9YWEw='
 config_channel(name, url)
 name='RlJFRS1Y'
 url = 'aHR0cDovLzM3LjIzNS4yMTYuMjU1OjQwMDAvdWRwLzIyNS41MC43MC44OjEyMzQ='
@@ -162,7 +158,7 @@ name='V09XIEdJUkxT'
 url = 'aHR0cDovL2x1Y2t5aXB0di5kZG5zLm5ldDoyMzAwMC9saXZlL2x1ZG92aWNvL2x1ZG92aWNvLzkwMzIubTN1OA=='
 config_channel(name, url)
 name='QkFCRVM='
-url = 'LGh0dHA6Ly9sdWNreWlwdHYuZGRucy5uZXQ6MjMwMDAvbGl2ZS9sdWRvdmljby9sdWRvdmljby85MDE2Lm0zdTg='
+url = 'aHR0cDovL2x1Y2t5aXB0di5kZG5zLm5ldDoyMzAwMC9saXZlL2x1ZG92aWNvL2x1ZG92aWNvLzkwMTYubTN1OA=='
 config_channel(name, url)
 name='Q2FtU29kYSBLaXRjaGVu'
 url = 'aHR0cDovLzE5OS44OC41OS4yNDQ6MTkzNS9jYW1ob3VzZS9jYW1ob3VzZS1raXRjaGVuLnN0cmVhbS9wbGF5bGlzdC5tM3U4'
