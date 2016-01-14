@@ -80,14 +80,14 @@ def router(paramstring):
     	# Parse a URL-encoded paramstring to the dictionary of
     # {<parameter>: <value>} elements
     params = dict(parse_qsl(paramstring))
-    print params
+
     # Check the parameters passed to the plugin
     if params:
         url = params['video']
         if params['action'] == 'play':
             # Play a video from a provided URL.
             if params['resolver']!= None and params['resolver']!='None':
-                url = locals()[params['resolver']](url)
+                url = globals()[params['resolver']](url)
             play_video(url)
         #elif params['action'] == 'listing':
             	#For future *pages*
