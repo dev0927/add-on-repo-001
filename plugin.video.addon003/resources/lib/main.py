@@ -7,7 +7,6 @@ import xbmcplugin
 # Get the plugin url in plugin:// notation.
 _url = sys.argv[0]
 
-print(_url)
 # Get the plugin handle as an integer number.
 addon_handle = int(sys.argv[1])
 
@@ -81,6 +80,7 @@ def router(paramstring):
     	# Parse a URL-encoded paramstring to the dictionary of
     # {<parameter>: <value>} elements
     params = dict(parse_qsl(paramstring))
+    print params
     # Check the parameters passed to the plugin
     if params:
         url = params['video']
