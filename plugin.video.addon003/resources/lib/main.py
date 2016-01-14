@@ -58,6 +58,7 @@ def play(name,streamurl,iconimage = "DefaultVideo.png"):
 	
 #from example
 def play_video(path):
+    
    # Create a playable item with a path to play.
     play_item = xbmcgui.ListItem(path=path)
     # Pass the item to the Kodi player.
@@ -88,7 +89,8 @@ def router(paramstring):
             # Play a video from a provided URL.
             if params['resolver']!= None and params['resolver']!='None':
                 url = globals()[params['resolver']](url)
-            play_video(url)
+            #play_video(url)
+            play('name',url)
         #elif params['action'] == 'listing':
             	#For future *pages*
     else:
