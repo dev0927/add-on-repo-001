@@ -2,6 +2,9 @@ import urllib,urllib2, re,base64, time, math
 from HTMLParser import HTMLParser
 from pydoc import pager
 
+if 'basestring' not in globals():
+   basestring = str
+
 def get_src(word, txt):
     regexpstr = word + "'?[ :=]+['\"]?([^ ',\"]+)" 
     src = re.compile(regexpstr).findall(txt)[0]
@@ -37,8 +40,7 @@ class VerdirectoParser(HTMLParser):
             for attr in attrs:
                 if(attr[0]=="src"):
                     #print(attr[1])
-                    if(len(re.findall("verdirectotv.org", attr[1])) > 0):
-                        #print("Found script url: " + attr[1])
+                    if(len(re.findall("channel.php", attr[1])) > 0):
                         self.script_url = attr[1]
 
     def get_script_url(self):
@@ -91,31 +93,41 @@ def pbr_resolver(url):
     req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0')
     req.add_header("Connection", "keep-alive")
     req.add_header("Referer", url)
-	#open initial page
+    #open initial page
     response = opener.open(req)
     page = response.read()
-    ####diag
-    #print '====' + url + "==========="
-    #print page
-    ###diag#end
+    #get embedded page
     return _resolve(page, url, opener)
 
+def getPageName(url):
+    page = urllib2.urlparse.urlparse(url)
+    name = page[2].split('/')
+    name = name[len(name) -1 ]
+    return name.split('.')[0]
+
 def _resolve(page, url, opener):
-	#get/request next embed step
+    #get/request embedded page
     p =  IFrameSrcParser()
     p.reset()
     p.feed(str(page))
 
     pageUrl = p.get_src()
+
+    #print 'pageUrl:' + pageUrl[0]
     if(len(pageUrl)>1) :
-        #check if url matches current url
+        pageName = getPageName(url)
+        #print(pageName)
         for i in pageUrl:
-            if(i != url and (p.match(i,"verdirectotv") or p.match(i,"cinestrenostv")) ) :
-            #if(i != url ) :
+            ##TODO maybe handle by matching page name
+            if(i != url and p.match(i,pageName) ) :
                 pageUrl = i
+            #print pageUrl
+        if( isinstance(pageUrl, tuple)):
+            #pick the first one
+            pageUrl = pageUrl[0]
     else :
         pageUrl = pageUrl[0]
-    #print('====' + pageUrl + '========')
+    print pageUrl
     req = urllib2.Request(pageUrl)
     req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0')
     req.add_header("Connection", "keep-alive")
@@ -124,8 +136,8 @@ def _resolve(page, url, opener):
     response = opener.open(req)
 
     page=response.read()
-    
-    #print(page)
+    #print("--------------------" + pageUrl + '=================')
+    print(page)
     
     p = VerdirectoParser()
     p.reset()
@@ -171,6 +183,8 @@ def _resolve(page, url, opener):
             return get_stream_parameters(embed, iParser, pageUrl)
         else:
             return get_stream_parameters_remote(opener, embed, pageUrl)
+    elif(True) :   
+        return _resolve(page, pageUrl, opener)
     else:
         return _resolve(page, pageUrl, opener)
         ##TODO drill down until we get a script we are looking for
@@ -274,12 +288,14 @@ def get_stream_parameters(src, iParser, pageUrl):
     regexpstr = r"rtmpe?:\/\/[0-9.:/]+(.+)"
     app = re.findall(regexpstr, streamer)[0]
     ##kodi style
-    kodistream = streamer + " playpath=" + _file +  " swfUrl=http://tv.verdirectotv.org/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=" + pageUrl 
-   
+    kodistream = streamer + " playpath=" + _file +  " swfUrl=http://www.businessapp1.pw/jwplayer5/addplayer/jwplayer.flash.swf pageUrl=" + pageUrl + " app=" + app + " flashVer=\"WIN 17,0,0,0\"" 
+
     return kodistream
-   
-#print(pbr_resolver("http://cinestrenostv.tv/canales/nacionales/hustlertv.php"))
-#print(pbr_resolver("http://verdirectotv.com/canales/hustlertv.html"))
-#print(pbr_resolver("http://verdirectotv.com/tv/xxx2/playboy.html"))
-#print(pbr_resolver("http://cinestrenostv.tv/canales/emision/hustlertv.html"))
-#print(pbr_resolverkk("http://cinestrenostv.tv/canales/nacionales/hustlertv.php"))
+'''   
+print(pbr_resolver("http://cinestrenostv.tv/canales/xxx/playboy.php"))
+print(pbr_resolver("http://cinestrenostv.tv/canales/nacionales/hustlertv.php"))
+print(pbr_resolver("http://cinestrenostv.tv/canales/xxx/venus.php"))
+print(pbr_resolver("http://cinestrenostv.tv/canales/xxx/hot.php"))
+print(pbr_resolver("http://cinestrenostv.tv/canales/xxx/redlight.php"))
+'''
+#print(pbr_resolver("http://cinestrenostv.tv/canales/xxx/pasionxxx.php"))

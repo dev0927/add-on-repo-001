@@ -40,11 +40,8 @@ config_channel(name, url)
 name='VEVNUFRBVElPTg=='
 url = 'aHR0cDovLzQ2LjE4Mi4yNS4zNDoxOTM1L3R2LzE0MjAvcGxheWxpc3QubTN1OA=='
 config_channel(name, url)
-name='SFVTVExFUiBIRA=='
-url = 'aHR0cDovLzE3OC4yMS4xMjAuMTk4OjE5MzUvbGl2ZTMvX2RlZmluc3RfL21wNDpodXN0bGVyaGQvcGxheWxpc3QubTN1OA=='
-config_channel(name, url)
 name='SFVTVExFUiBUVg=='
-url = 'aHR0cDovLzE3OC4yMS4xMjAuMTk4OjE5MzUvbGl2ZTMvX2RlZmluc3RfL21wNDpodXN0bGVydHYvcGxheWxpc3QubTN1OA=='
+url = 'aHR0cDovLzE5NS4yMjguMTEuODM6NDQ0NC91ZHAvMjMxLjEuMS40MzoxMDAw'
 config_channel(name, url)
 name='UExBWUJPWSAoRURFTSk='
 url = 'aHR0cDovL3NmdHI4OWVuLmVkZW0udHYvaXB0di80RUI1U1dXRTRLOTVFUS81MjcvaW5kZXgubTN1OA=='
@@ -63,6 +60,12 @@ url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjgxL3N0b2xlbi8zNzJzL3JhaW5ib3cudWRm'
 config_channel(name, url)
 name='SFVTVExFUiBIRA=='
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMTExL3N0b2xlbi8wNTNlL3J1dGtpdC5leGU='
+config_channel(name, url)
+name='UEVOVEhPVVNFIEhE'
+url = 'aHR0cDovLzE5NS4yMjguMTEuODM6NDQ0NC91ZHAvMjMxLjEuMS40NDoxMDAw'
+config_channel(name, url)
+name='U1VQRVJPTkU='
+url = 'aHR0cDovLzE5NS4yMjguMTEuODM6NDQ0NC91ZHAvMjMxLjEuMS40NjoxMDAw'
 config_channel(name, url)
 name='VklWSUQ='
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjUxL3N0b2xlbi8zMzZ2L29uZWhhbGYuY2Fi'
@@ -92,7 +95,7 @@ name='UElOS08gVFY='
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjgxL3N0b2xlbi8zNzNiL3JhaW5ib3cudWRm'
 config_channel(name, url)
 name='U0VYVE8gNiBTRU5TTw=='
-url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMjgxL3N0b2xlbi8zNzFlL3JhaW5ib3cudWRm'
+url = 'aHR0cDovLzE5NS4yMjguMTEuODM6NDQ0NC91ZHAvMjMxLjEuMS40MToxMDAw'
 config_channel(name, url)
 name='T0xBTEE='
 url = 'aHR0cDovLzkxLjIwNC4yMTQuMTA2OjIzMzAxL3N0b2xlbi80NDFsL3ZpcnV0LmNobQ=='
@@ -135,6 +138,9 @@ url = 'aHR0cDovLzIxMi4yMDAuMTI1LjEwOjk0MzYvNDM2'
 config_channel(name, url)
 name='UElOSyBFUk9USUMgOA=='
 url = 'aHR0cDovLzIxMi4yMDAuMTI1LjEwOjk0MzcvNDM3'
+config_channel(name, url)
+name='RFVTSw=='
+url = 'aHR0cDovLzE5NS4yMjguMTEuODM6NDQ0NC91ZHAvMjMxLjEuMS40NzoxMDAw'
 config_channel(name, url)
 name='UExBWUJPWSBSRUQgKEVTUCk='
 url = 'aHR0cDovL2lwdHZsYXRpbm90b3RhbC4xNm1iLmNvbS9zdGFsa2VyLnBocD9jYW5hbD1QbGF5Ym95VFYmY209Mjg5JmY9Lm0zdTg='
