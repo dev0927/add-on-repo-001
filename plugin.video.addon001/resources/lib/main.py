@@ -80,6 +80,18 @@ config_channel(name, url)
 name='VklWSUQ='
 url = 'aHR0cDovLzc3LjIzNy4xMzMuMTUwOjgwMDEvMTowOjE6RkUxOjQ1MTozNTpDMDAwMDA6MDowOjA='
 config_channel(name, url)
+name='VklWSUQy'
+url = 'aHR0cDovLzUuMTk2Ljc3LjIwOjgwMDAvbGl2ZS8xMjM0NTYvMTIzNDU2LzQ4MTEudHM='
+config_channel(name, url)
+name='WFhYMQ=='
+url = 'aHR0cDovLzE4OC4xNjUuMjIwLjExNjo4MDgxL2xpdmUyLzExL3BsYXlsaXN0Lm0zdTg='
+config_channel(name, url)
+name='WFhYMg=='
+url = 'aHR0cDovLzE4OC4xNjUuMjIwLjExNjo4MDgxL2xpdmUvMzkvcGxheWxpc3QubTN1OA=='
+config_channel(name, url)
+name='WFgz'
+url = 'aHR0cDovLzUuMTk2Ljc3LjIwOjgwMDAvbGl2ZS8xMjM0NTYvMTIzNDU2LzQxNzIudHM='
+config_channel(name, url)
 name='TklHSFQgQ0xVQg=='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9uY2x1Yg=='
 config_channel(name, url)
