@@ -60,37 +60,22 @@ name='SFVTVExFUiBIRA=='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9odXN0bGVyaGQ='
 config_channel(name, url)
 name='UEVOVEhPVVNFIEhE'
+url = 'aHR0cDovLzE5NS4yMjguMTEuODk6NDA4MC91ZHAvMjI1LjI1NS4yNTUuNzU6MTAwMDA='
+config_channel(name, url)
+name='UEVOVEhPVVNFIEhEIDI='
 url = 'aHR0cDovL2Vub2V6aXNhbi5ob21lLmR5bmRucy5vcmc6ODAwMC9saXZlL2FuZHJvaWQvYW5kcm9pZC81MTM1LnRz'
 config_channel(name, url)
 name='U1VQRVJPTkUgSEQ='
-url = 'aHR0cDovLzc4LjEwOC4yNDUuNzg6NTU1NS91ZHAvMjM5LjEwMC4xLjEzOjEyMzQ='
-config_channel(name, url)
-name='UFJJVkFURQ=='
-url = 'aHR0cDovLzk1LjgyLjIwNC4yODo4MS8vdWRwLzIzOS4yNTUuMi4yMzE6MTIzNA=='
+url = 'aHR0cDovLzMxLjIyMy4yMzguMTA6ODAwMS8xOjA6MTo0MDk6MjoxOkUwODMxQjM6MDowOjA6'
 config_channel(name, url)
 name='RE9SQ0VM'
-url = 'aHR0cDovL3BjaXB0di5ibG9nZG5zLmNvbTozNDUwNS9saXZlL21pbmcvbWluZy8xNTk0LnRz'
+url = 'aHR0cDovL2Vub2V6aXNhbi5ob21lLmR5bmRucy5vcmc6ODAwMC9saXZlL2FuZHJvaWQvYW5kcm9pZC80ODE2LnRz'
 config_channel(name, url)
 name='SE9U'
 url = 'aHR0cDovL2Vub2V6aXNhbi5ob21lLmR5bmRucy5vcmc6ODAwMC9saXZlL2FuZHJvaWQvYW5kcm9pZC81MTQ3LnRz'
 config_channel(name, url)
-name='UkVBTElUWSBLSU5H'
-url = 'aHR0cDovLzc3LjIzNy4xMzMuMTUwOjgwMDEvMTowOjE2OjFCODE6Qzg4OjM6RUIwMDAwOjA6MDowOg=='
-config_channel(name, url)
-name='VklWSUQ='
-url = 'aHR0cDovLzc3LjIzNy4xMzMuMTUwOjgwMDEvMTowOjE6RkUxOjQ1MTozNTpDMDAwMDA6MDowOjA='
-config_channel(name, url)
-name='VklWSUQy'
-url = 'aHR0cDovLzUuMTk2Ljc3LjIwOjgwMDAvbGl2ZS8xMjM0NTYvMTIzNDU2LzQ4MTEudHM='
-config_channel(name, url)
-name='WFhYMQ=='
-url = 'aHR0cDovLzE4OC4xNjUuMjIwLjExNjo4MDgxL2xpdmUyLzExL3BsYXlsaXN0Lm0zdTg='
-config_channel(name, url)
-name='WFhYMg=='
-url = 'aHR0cDovLzE4OC4xNjUuMjIwLjExNjo4MDgxL2xpdmUvMzkvcGxheWxpc3QubTN1OA=='
-config_channel(name, url)
-name='WFgz'
-url = 'aHR0cDovLzUuMTk2Ljc3LjIwOjgwMDAvbGl2ZS8xMjM0NTYvMTIzNDU2LzQxNzIudHM='
+name='RVJPWFhY'
+url = 'aHR0cDovLzUuMTM1LjEzOS4xNDU6ODAvRXJveHh4X0hEL21vbm8ubTN1OA=='
 config_channel(name, url)
 name='TklHSFQgQ0xVQg=='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9uY2x1Yg=='
