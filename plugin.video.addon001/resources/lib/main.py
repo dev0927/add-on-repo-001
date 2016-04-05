@@ -56,6 +56,15 @@ config_channel(name, url)
 name='UlVTU0lBTiBOSUdIVCAyIChLUkFTKQ=='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9ybg=='
 config_channel(name, url)
+name='UkVETElHSFQgSEQ='
+url = 'aHR0cDovL3RoZXJldmVuYW50LmRkbnMubmV0OjM4ODAvbGl2ZS9lZG8xL04ycVhBU1lQNHYvMjMyLnRz'
+config_channel(name, url)
+name='UkVETElHSFQgSEQgMg=='
+url = 'aHR0cDovL2RzLWlwdHYuZHluZG5zLm9yZzo4MDAwL2xpdmUvY29zaW1vL2Nvc2ltby8yNjI5Lm0zdTg='
+config_channel(name, url)
+name='SFVTVExFUiBUVg=='
+url = 'aHR0cDovLzUuMTM1LjEzOS4xNDU6ODAvSHVzdGxlcl9UVi9tb25vLm0zdTg='
+config_channel(name, url)
 name='SFVTVExFUiBIRA=='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9odXN0bGVyaGQ='
 config_channel(name, url)
@@ -66,7 +75,7 @@ name='UEVOVEhPVVNFIEhEIDI='
 url = 'aHR0cDovL2Vub2V6aXNhbi5ob21lLmR5bmRucy5vcmc6ODAwMC9saXZlL2FuZHJvaWQvYW5kcm9pZC81MTM1LnRz'
 config_channel(name, url)
 name='U1VQRVJPTkUgSEQ='
-url = 'aHR0cDovLzMxLjIyMy4yMzguMTA6ODAwMS8xOjA6MTo0MDk6MjoxOkUwODMxQjM6MDowOjA6'
+url = 'aHR0cDovL3RoZXJldmVuYW50LmRkbnMubmV0OjM4ODAvbGl2ZS9lZG8xL04ycVhBU1lQNHYvMjM2LnRz'
 config_channel(name, url)
 name='UFJJVkFURQ=='
 url = 'aHR0cDovLzUuMTM1LjEzOS4xNDU6ODAvUHJpdmF0ZV9UVi9tb25vLm0zdTg='
@@ -93,7 +102,7 @@ name='RlJFQ0hMT1ZFUg=='
 url = 'aHR0cDovLzM3LjIzNS4yMTYuMjU1OjQwMDAvdWRwLzIyNS41MC43MC43OjEyMzQ='
 config_channel(name, url)
 name='WFhM'
-url = 'aHR0cDovLzk1LjgyLjIwNC4yODo4MS8vdWRwLzIzOS4yNTUuMi43MjoxMjM0'
+url = 'aHR0cDovLzk0LjI1My41Mi4xOTo3Nzg4L3VkcC8yMzQuNS4yLjI0NjoxMjM0'
 config_channel(name, url)
 name='RlJFRS1Y'
 url = 'aHR0cDovLzM3LjIzNS4yMTYuMjU1OjQwMDAvdWRwLzIyNS41MC43MC44OjEyMzQ='
@@ -109,6 +118,9 @@ url = 'aHR0cDovL3ZoLmdvbGR0di5hbDo4MDAwL2xpdmUvdG9tL3RvbS8xMDkxLnRz'
 config_channel(name, url)
 name='U0VYVFJFTUU='
 url = 'aHR0cDovL2Vub2V6aXNhbi5ob21lLmR5bmRucy5vcmc6ODAwMC9saXZlL2FuZHJvaWQvYW5kcm9pZC81MTI2LnRz'
+config_channel(name, url)
+name='Q2luZGVyZWxsYSBYWFg='
+url = 'aHR0cDovL2RzLWlwdHYuZHluZG5zLm9yZzo4MDAwL21vdmllL2Nvc2ltby9jb3NpbW8vMjc2NS5ta3Y='
 config_channel(name, url)
 name='Q2FtU29kYSBLaXRjaGVu'
 url = 'aHR0cDovLzE5OS44OC41OS4yNDQ6MTkzNS9jYW1ob3VzZS9jYW1ob3VzZS1raXRjaGVuLnN0cmVhbS9wbGF5bGlzdC5tM3U4'
@@ -146,6 +158,7 @@ config_channel(name, url)
 name='Q2FtU29kYSBQYXRpbw=='
 url = 'aHR0cDovLzE5OS44OC41OS4yNDU6MTkzNS9jYW1ob3VzZS9jYW1ob3VzZS1wYXRpby5zdHJlYW0vcGxheWxpc3QubTN1OA=='
 config_channel(name, url)
+
 
 ##############################################################################
 xbmcplugin.endOfDirectory(addon_handle)
