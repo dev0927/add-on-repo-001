@@ -63,7 +63,7 @@ name='UkVETElHSFQgSEQgMg=='
 url = 'aHR0cDovL2RzLWlwdHYuZHluZG5zLm9yZzo4MDAwL2xpdmUvY29zaW1vL2Nvc2ltby8yNjI5Lm0zdTg='
 config_channel(name, url)
 name='SFVTVExFUiBUVg=='
-url = 'aHR0cDovLzUuMTM1LjEzOS4xNDU6ODAvSHVzdGxlcl9UVi9tb25vLm0zdTg='
+url = 'aHR0cDovLzUuMTM1LjEzOS4xNDU6ODAvSHVzdGxlclRWL21vbm8ubTN1OA=='
 config_channel(name, url)
 name='SFVTVExFUiBIRA=='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9odXN0bGVyaGQ='
@@ -109,9 +109,6 @@ url = 'aHR0cDovLzM3LjIzNS4yMTYuMjU1OjQwMDAvdWRwLzIyNS41MC43MC44OjEyMzQ='
 config_channel(name, url)
 name='Q0FORFk='
 url = 'aHR0cDovLzM3LjIzNS4xNDcuMjUwOjgxL3VkcC8yMjUuNTAuNzAuMToxMjM0'
-config_channel(name, url)
-name='VGlueQ=='
-url = 'aHR0cDovL3ZoLmdvbGR0di5hbDo4MDAwL2xpdmUvdG9tL3RvbS8xMDk2LnRz'
 config_channel(name, url)
 name='UElOSyBP'
 url = 'aHR0cDovL3ZoLmdvbGR0di5hbDo4MDAwL2xpdmUvdG9tL3RvbS8xMDkxLnRz'
