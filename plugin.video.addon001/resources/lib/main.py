@@ -134,7 +134,30 @@ config_channel(name, url)
 name='RG9yY2VsIENsdWI='
 url = 'aHR0cDovL2lwdHZnYWZzYS5kZG5zLm5ldDo4MDAwL2xpdmUvYW5kMi9hbmQyLzk0ODgudHM='
 config_channel(name, url)
-
+name='TmlnaHQgRmFudGFzeQ=='
+url = 'aHR0cDovLzE3OC4zMy4xODIuMTc4OjQ1NTU3L3BsYXkvYTAxdT9hdXRoPXN0cmVhbV90ZXN0XzAwOTg6MkRmZ0Q0NDZ4ekQ4OUZGcnZoaA=='
+config_channel(name, url)
+name='SE9UIENMVUIgMg=='
+url = 'aHR0cDovL2dlbS1hbHRhLWlwdHYubm8taXAubmV0Ojg4OTkvbGl2ZS9iZWxraGlyYWJkb3UxL2JlbGtoaXJhYmRvdTEvNjQzLnRz'
+config_channel(name, url)
+name='SE9UIENMVUIgMw=='
+url = 'aHR0cDovL2dlbS1hbHRhLWlwdHYubm8taXAubmV0Ojg4OTkvbGl2ZS9iZWxraGlyYWJkb3UxL2JlbGtoaXJhYmRvdTEvNjQxLnRz'
+config_channel(name, url)
+name='SE9UIENMVUIgNA=='
+url = 'aHR0cDovL2dlbS1hbHRhLWlwdHYubm8taXAubmV0Ojg4OTkvbGl2ZS9iZWxraGlyYWJkb3UxL2JlbGtoaXJhYmRvdTEvNjQwLnRz'
+config_channel(name, url)
+name='SE9UIENMVUIgNQ=='
+url = 'aHR0cDovL2dlbS1hbHRhLWlwdHYubm8taXAubmV0Ojg4OTkvbGl2ZS9iZWxraGlyYWJkb3UxL2JlbGtoaXJhYmRvdTEvNjM4LnRz'
+config_channel(name, url)
+name='SE9UIENMVUIgNg=='
+url = 'aHR0cDovL2dlbS1hbHRhLWlwdHYubm8taXAubmV0Ojg4OTkvbGl2ZS9iZWxraGlyYWJkb3UxL2JlbGtoaXJhYmRvdTEvNjM3LnRz'
+config_channel(name, url)
+name='SE9UIENMVUIgNw=='
+url = 'aHR0cDovL2dlbS1hbHRhLWlwdHYubm8taXAubmV0Ojg4OTkvbGl2ZS9iZWxraGlyYWJkb3UxL2JlbGtoaXJhYmRvdTEvNjM2LnRz'
+config_channel(name, url)
+name='SE9UIENMVUIgOA=='
+url = 'aHR0cDovL2dlbS1hbHRhLWlwdHYubm8taXAubmV0Ojg4OTkvbGl2ZS9iZWxraGlyYWJkb3UxL2JlbGtoaXJhYmRvdTEvNjM1LnRz'
+config_channel(name, url)
 
 ##############################################################################
 xbmcplugin.endOfDirectory(addon_handle)
