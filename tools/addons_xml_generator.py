@@ -65,7 +65,7 @@ class Generator:
                 #check path is an addon
                 if (not os.path.isfile(_path)): continue
                 # split lines for stripping
-                xml_lines = open(_path, "r" , encoding="UTF-8").read().splitlines()
+                xml_lines = open(_path, "r" ).read().splitlines()
                 # new addon
                 addon_xml = ""
                 # loop thru cleaning each line
@@ -94,7 +94,7 @@ class Generator:
             m = md5.new( open( "../addons.xml", "r" ).read() ).hexdigest()
         except ImportError:
             import hashlib
-            m = hashlib.md5( open( "../addons.xml", "r", encoding="UTF-8" ).read().encode( "UTF-8" ) ).hexdigest()
+            m = hashlib.md5( open( "../addons.xml", "r").read().encode( "UTF-8" ) ).hexdigest()
  
         # save file
         try:
