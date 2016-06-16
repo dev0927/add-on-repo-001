@@ -61,7 +61,16 @@ name='UkVETElHSFQgSEQgMg=='
 url = 'aHR0cDovL21haW5zdHJlYW0uZHluZG5zLnR2OjgwMDAvbGl2ZS9UVE53Y2dKYzdZL1VCTHVzWDIwaUEvOTM2LnRz'
 config_channel(name, url)
 name='SFVTVExFUiBUVg=='
-url = 'aHR0cDovL3NlcnYwMS5pcHR2cGxhbmV0LmV1OjExMTE4L2xpdmUvc293cmQvYXdvcmQvMTI2My50cw=='
+url = 'aHR0cDovLzc3LjI0Mi45Mi4zOjQwMjIvdWRwLzIzOS40LjAuMTcw'
+config_channel(name, url)
+name='QnJhenplcnM='
+url = 'aHR0cDovLzc3LjI0Mi45Mi4zOjQwMjIvdWRwLzIzOS40LjAuMTcx'
+config_channel(name, url)
+name='UGxheWJveQ=='
+url = 'aHR0cDovLzc3LjI0Mi45Mi4zOjQwMjIvdWRwLzIzOS40LjAuMTcy'
+config_channel(name, url)
+name='UGxheWJveSBSRUQ='
+url = 'aHR0cDovLzc3LjI0Mi45Mi4zOjQwMjIvdWRwLzIzOS40LjAuMTcz'
 config_channel(name, url)
 name='SFVTVExFUiBIRA=='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9odXN0bGVyaGQ='
@@ -147,6 +156,7 @@ config_channel(name, url)
 name='SE9UIENMVUIgMw=='
 url = 'aHR0cDovL3NlcnYwMS5pcHR2cGxhbmV0LmV1OjExMTE4L2xpdmUvc293cmQvYXdvcmQvMTczMy50cw=='
 config_channel(name, url)
+
 
 ##############################################################################
 xbmcplugin.endOfDirectory(addon_handle)
