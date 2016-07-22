@@ -27,6 +27,8 @@ xbmcplugin.setContent(addon_handle, 'movies')
 #repeat until eof
 #config channel
 
+
+
 name='TWlhbWkgVFY='
 url = 'aHR0cDovL2s0LnVzYXN0cmVhbXMuY29tOjE5MzUvbWlhbWl0di9zbWlsOm1pYW1pdHYvcGxheWxpc3QubTN1OA=='
 config_channel(name, url)
@@ -36,14 +38,11 @@ config_channel(name, url)
 name='SERQIDI='
 url = 'aHR0cDovLzE4OC4xNjUuMjIwLjExNjo4MDgxL2xpdmUyLzUyL3BsYXlsaXN0Lm0zdTg='
 config_channel(name, url)
+name='U1VQRVJPTkUgSEQ='
+url = 'aHR0cDovLzMxLjIyMy4yMzguMTA6ODAwMS8xOjA6MTo0MDk6MjoxOkUwODMxQjM6MDowOjA6'
+config_channel(name, url)
 name='UEVOVEhPVVNFIEhE'
 url = 'aHR0cDovLzE5NS4yMjguMTEuODk6NDA4MC91ZHAvMjI1LjI1NS4yNTUuNzU6MTAwMDA='
-config_channel(name, url)
-name='QlVOR0EgQlVOR0E='
-url = 'aHR0cDovLzQ2Ljk5LjE2OC4xMTg6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzIwNDk0MDY2NDg/dGlja2V0PTVDRDZCQTIzRUYxM0M3RTkwQTk1NUU3MjkzNDkzODk3ODZFOEJGQkImcHJvZmlsZT1wYXNz'
-config_channel(name, url)
-name='QlVOR0EgQlVOR0E='
-url = 'aHR0cDovLzQ2Ljk5LjE2OC4xMTg6OTk4MS9zdHJlYW0vY2hhbm5lbGlkLzEwMzkzNjcwNzA/dGlja2V0PTBFMzYyQzc1MjM3MTE1NDg5OUNBQjA2MTBCM0U1OTI4ODgxMDNGN0YmcHJvZmlsZT1wYXNz'
 config_channel(name, url)
 name='SFVTVExFUiBIRCAoS1JBUyk='
 url = 'aHR0cDovLzBFOUIwMEVDRDMyNkNDQUM6QHQua3Jhc2xhbi5ydS9odXN0bGVyaGQ='
@@ -118,13 +117,22 @@ name='Q0FORFk='
 url = 'aHR0cDovL2Nkbi0wMS5ib251cy10di5ydS9UVkI3L2NhbmR5L3RyYWNrXzBfMzAwMC9wbGF5bGlzdC5tM3U4'
 config_channel(name, url)
 name='UExBWUJPWSBSRUQ='
-url = 'aHR0cDovLzE5OS4xODAuMTE0LjE3NDo4MDAwL2xpdmUvcEhMTmN2OW92MS9WczQ5aGxpTHhpLzgxNS5tM3U4'
+url = 'aHR0cDovL2RmMS1wcmVtaWVyZS56YXB0by5vcmc6ODAwMC9saXZlL01hbnVlbC9Db2tlLzM0Ni50cw=='
+config_channel(name, url)
+name='SlVJQ1k='
+url = 'aHR0cDovLzE5OS4xODAuMTE0LjE3NDo4MDAwL2xpdmUvcEhMTmN2OW92MS9WczQ5aGxpTHhpLzgxMy5tM3U4'
 config_channel(name, url)
 name='VkVOVVM='
 url = 'aHR0cDovL2dsb2JpcHR2LmNvbTo4MDAwL2xpdmUvaGlLUXE5SlpOMy9YYzFic0pxcFU0LzE2NTMudHM='
 config_channel(name, url)
-name='SlVJQ1k='
-url = 'aHR0cDovLzE5OS4xODAuMTE0LjE3NDo4MDAwL2xpdmUvcEhMTmN2OW92MS9WczQ5aGxpTHhpLzgxMy5tM3U4'
+name='SE9U'
+url = 'aHR0cDovL2RmMS1wcmVtaWVyZS56YXB0by5vcmc6ODAwMC9saXZlL01hbnVlbC9Db2tlLzEwNjgudHM='
+config_channel(name, url)
+name='U2lyaW5h'
+url = 'aHR0cDovL2RmMS1wcmVtaWVyZS56YXB0by5vcmc6ODAwMC9saXZlL01hbnVlbC9Db2tlLzEwNjkudHM='
+config_channel(name, url)
+name='RG9yY2Vs'
+url = 'aHR0cDovL2RmMS1wcmVtaWVyZS56YXB0by5vcmc6ODAwMC9saXZlL01hbnVlbC9Db2tlLzU5OC50cw=='
 config_channel(name, url)
 name='UElOSyBFUk9USUM='
 url = 'aHR0cDovL2dsb2JpcHR2LmNvbTo4MDAwL2xpdmUvaGlLUXE5SlpOMy9YYzFic0pxcFU0Lzc5My50cw=='
@@ -140,5 +148,6 @@ url = 'aHR0cDovL2dsb2JpcHR2LmNvbTo4MDAwL2xpdmUvaGlLUXE5SlpOMy9YYzFic0pxcFU0Lzc5M
 config_channel(name, url)
 
 
-##############################################################################
+
+#############################################################################
 xbmcplugin.endOfDirectory(addon_handle)
