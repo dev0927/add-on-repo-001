@@ -123,7 +123,7 @@ def router(paramstring):
         if params['action'] == 'play':
             # Play a video from a provided URL.
             if params['resolver']!= None and params['resolver']!='None':
-                url = globals()[params['resolver']].resolve(url)
+                url = globals()[params['resolver']]().resolve(url)
             play('name',url)
         #elif params['action'] == 'listing':
                 #For future *pages*
