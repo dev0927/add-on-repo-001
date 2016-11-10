@@ -3,13 +3,13 @@ from urlparse import parse_qsl
 
 import xbmcgui
 import xbmcplugin
-''' put back after testing
+
 # Get the plugin url in plugin:// notation.
 _url = sys.argv[0]
 
 # Get the plugin handle as an integer number.
 addon_handle = int(sys.argv[1])
-'''
+
 
 #TODO parse _url for params????
 
