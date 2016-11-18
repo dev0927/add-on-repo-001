@@ -99,11 +99,44 @@ config_channel(name, url)
 name='Q0FORFk='
 url = 'aHR0cDovL2Nkbi0wMS5ib251cy10di5ydS9idHYvY2FuZHkvdHlwZS91c2VyL2Rldm5hbWUvTEctU21hcnRUVi9kZXZpZC9MRy0xNDY5ODE2MDU0L2VvbC8yMDIwMDEwMVQwMDAwL2hhc2gvZTgyMmYxNzdjYjQ3ODVjOTNmN2IwYTUwYTM1MzQ0MzI0NzhmNTEyYi90cmFja18yXzEwMDAvcGxheWxpc3QubTN1OA=='
 config_channel(name, url)
-name='UExBWUJPWSBSRUQ='
-url = 'aHR0cDovLzg0Ljc1Ljg3LjE2Mjo4MDAxLzE6MDoxOjUyNzo2Nzo1MzpDRTQwMDAwOjA6MDowOg=='
+name='VklQIDE='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8xOTUxLnRz'
 config_channel(name, url)
-name='VkVOVVM='
-url = 'aHR0cDovLzg0Ljc1Ljg3LjE2Mjo4MDAxLzE6MDoxOkQ1OjY2OjUzOkNFNDAwMDA6MDowOjA6'
+name='VklQIDI='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8xOTUyLnRz'
+config_channel(name, url)
+name='VklQIDM='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8xOTQ5LnRz'
+config_channel(name, url)
+name='VklQIDQ='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi82Mi50cw=='
+config_channel(name, url)
+name='VklQIDU='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi82MS50cw=='
+config_channel(name, url)
+name='VklQIDY='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8yNjMudHM='
+config_channel(name, url)
+name='VklQIDc='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8yNjIudHM='
+config_channel(name, url)
+name='VklQIDg='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8yNjgudHM='
+config_channel(name, url)
+name='VklQIDk='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8yNjYudHM='
+config_channel(name, url)
+name='VklQIDEw'
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8yNjcudHM='
+config_channel(name, url)
+name='VklQIDEx'
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8yNjUudHM='
+config_channel(name, url)
+name='UFBST1M='
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi8xOTUwLnRz'
+config_channel(name, url)
+name='QURVTFQy'
+url = 'aHR0cDovL2J1cjg3OS5jb206ODAwMC9saXZlL3RvbXk2NTY1Lzc4MjkwZi83OC50cw=='
 config_channel(name, url)
 name='SkFTTUlO'
 url = 'cnRtcDovLzEwOS43MS4xNjIuMTEyL2xpdmUvaGQuamFzbWluY2hhbm5lbC5zdHJlYW0vaGQuamFzbWluY2hhbm5lbC5zdHJlYW0='
