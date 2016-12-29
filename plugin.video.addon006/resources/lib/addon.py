@@ -8,7 +8,7 @@ import xbmcgui
 import xbmcaddon
 import xbmcplugin
 
-from resources.lib.chaturbate import Chaturbate
+from chaturbate import Chaturbate
 
 from urlparse import parse_qsl
 from doctest import UnexpectedException
