@@ -1,3 +1,5 @@
+[B]Version 0.5.0(25/1/2017:[/B]
+simplify
 [B]Version 0.4.48(17/1/2017:[/B]
 update urls
 [B]Version 0.4.47(11/1/2017:[/B]
