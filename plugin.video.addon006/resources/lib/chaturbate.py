@@ -50,7 +50,7 @@ class Chaturbate(object):
         p.reset()
         response = open_url(url)
         try:
-            p.feed(response)
+            p.feed(response.decode("UTF-8"))
         except UnicodeDecodeError:
             print response    
         except Exception as e:
