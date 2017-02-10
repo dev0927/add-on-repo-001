@@ -38,7 +38,7 @@ def play(model, url):
     liz.setPath(path=streamurl)
     xbmcplugin.setResolvedUrl(int(sys.argv[1]),True,liz)
     '''
-    player = xbmc.Player(xbmc.PLAYER_CORE_AUTO)
+    player = xbmc.Player()
     player.play(url,liz)
     
 def create_menu(v):    
