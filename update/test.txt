@@ -1,573 +1,197 @@
-#EXTINF:-1,Pink bh
-http://atlantic2048.serverprofi24.com:12974/live/adoadnanT/2112017/57.ts
-#EXTINF:-1,Pink Comedy
-http://atlantic2048.serverprofi24.com:12974/live/adoadnanT/2112017/407.ts
-#EXTINF:-1,Pink Erotic 2
-http://atlantic2048.serverprofi24.com:12974/live/adoadnanT/2112017/236.ts
-#EXTINF:-1,Pink Erotic 3
-http://atlantic2048.serverprofi24.com:12974/live/adoadnanT/2112017/235.ts
-#EXTINF:-1,Pink Erotic 4
-http://atlantic2048.serverprofi24.com:12974/live/adoadnanT/2112017/376.ts
+#EXTINF:-1,Ночной Клуб
+http://109.237.144.19:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-LA-LA
+http://109.237.144.19:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://109.237.144.19:81/udp/239.1.6.35:1234
+#EXTINF:-1,Blue Hustler
+http://109.237.144.19:81/udp/239.1.6.36:1234
+#EXTINF:-1,Brazzers TV
+http://109.237.144.19:81/udp/239.1.6.40:1234
+#EXTINF:-1,Playboy TV
+http://109.237.144.19:81/udp/239.1.6.39:1234
+#EXTINF:-1,Русская ночь
+http://109.237.144.19:81/udp/239.1.6.32:1234
 
 
-#EXTINF:-1,Frenchlover
-http://95.26.204.1:34040/udp/233.33.221.36:5050
+http://globiptv.com:8000/get.php?username=11&password=n9Uuh1Cqbx&type=m3u
+http://hermess.myftp.org:4321/get.php?username=tablet&password=tablet&type=m3u
+http://ipsatpro.info:8000/get.php?username=V5I0d1QDe5&password=LarqAhFJBp&type=m3u
+http://sutverduz.com:8080/get.php?username=UW7uRpPyNR&password=xjysNTGuJ7&type=m3u
+http://cmskos.fastiptv.org:777/get.php?username=GzimSopi&password=TbflPU0LzF&type=m3u
 
-EXTINF:-1,18 4K CH-1
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/8056.ts
-#EXTINF:-1,18 4K CH-2
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/8055.ts
-#EXTINF:-1,18 4K CH-3
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/8054.ts
-#EXTINF:-1,18 4K CH-4
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/8053.ts
-#EXTINF:-1,18 4K CH-5
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/8052.ts
-#EXTINF:-1,18 4K CH-6
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/8051.ts
-#EXTINF:-1,18 4K CH-7
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7517.ts
-#EXTINF:-1,18 4K CH-8
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7516.ts
-#EXTINF:-1,18 4K CH-9
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7515.ts
-#EXTINF:-1,18 4K CH-10
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7514.ts
-#EXTINF:-1,18 4K CH-12
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7513.ts
-#EXTINF:-1,18 4K CH-13
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7512.ts
-#EXTINF:-1,18 4K CH-14
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7511.ts
-#EXTINF:-1,18 4K CH-15
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7510.ts
-#EXTINF:-1,18 4K CH-16
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7509.ts
-#EXTINF:-1,18 4K CH-17
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7519.ts
-#EXTINF:-1,18 4K CH-18
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7518.ts
-#EXTINF:-1,18 4K CH-19
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5458.ts
-#EXTINF:-1,18 4K CH-20
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5457.ts
-#EXTINF:-1,18 4K CH-21
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5456.ts
-#EXTINF:-1,18 4K CH-22
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5455.ts
-#EXTINF:-1,18 4K CH-23
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5452.ts
-#EXTINF:-1,18 4K CH-24
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5451.ts
-#EXTINF:-1,18 4K CH-25
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5450.ts
-#EXTINF:-1,18 4K CH-26
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5449.ts
-#EXTINF:-1,18 4K CH-28
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5453.ts
-#EXTINF:-1,18 4K CH-29
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7528.ts
-#EXTINF:-1,18 4K CH-30
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7527.ts
-#EXTINF:-1,18 4K CH-31
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7525.ts
-#EXTINF:-1,18 4K CH-32
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7524.ts
-#EXTINF:-1,18 4K CH-33
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7523.ts
-#EXTINF:-1,18 4K CH-34
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7522.ts
-#EXTINF:-1,18 4K CH-35
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7521.ts
-#EXTINF:-1,18 4K CH-36
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7520.ts
-#EXTINF:-1,18 4K CH-37
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/7526.ts
-#EXTINF:-1,18 4K CH-38
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/134.ts
-#EXTINF:-1,18 4K CH-39
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/135.ts
-#EXTINF:-1,18 4K CH-40
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/136.ts
-#EXTINF:-1,18 4K CH-41
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/137.ts
-#EXTINF:-1,18 4K CH-42
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/138.ts
-#EXTINF:-1,18 4K CH-43
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/139.ts
-#EXTINF:-1,18 4K CH-44
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/140.ts
-#EXTINF:-1,18 4K CH-45
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/141.ts
-#EXTINF:-1,18 4K CH-46
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/142.ts
-#EXTINF:-1,18 4K CH-47
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/5454.ts
-#EXTINF:-1,18 4K CH-48
-http://149.202.208.25:5210/live/9P7B5GvUh6/ktQDoF3GF5/594.ts
+http://smart-iptv2016.com:9500/get.php?username=hamza&password=hamza&type=m3u
+https://skystreaming.co/playlist/xg2vzwhdde/sky.m3u
+http://163.172.6.8:8000/get.php?username=3mad&password=3mad&type=m3u
+http://149.202.208.25:5210/get.php?username=35JFYfRkDT&password=qzBBj7oG9m&type=m3u
+http://149.202.93.187:8000/get.php?username=iUWMXk393L&password=JHsiF0r1gI&type=m3u
+http://tv.iptvsports.net:8080/get.php?username=4dayson&password=free&type=m3u
 
 
+http://185.2.82.147:25461/get.php?username=senka&password=senka&type=m3u
 
-#EXTINF:-1,XXX_Hot_Club1
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/332.ts
-#EXTINF:-1,XXX_Hot_Club2
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/333.ts
-#EXTINF:-1,XXX_Hot_Club3
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/335.ts
-#EXTINF:-1,XXX_Hot_Club4
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/336.ts
-#EXTINF:-1,XXX_Hot_Club5
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/337.ts
-#EXTINF:-1,XXX_Hot_Club6
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/338.ts
-#EXTINF:-1,XXX_Hot_Club7
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/339.ts
-#EXTINF:-1,XXX_Hot_Club8
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/342.ts
-#EXTINF:-1,XXX_Hot_Club9
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/343.ts
-#EXTINF:-1,XXX_Hot_Club10
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/344.ts
-#EXTINF:-1,XXX_Hot_Club11
-http://151.80.36.109:8000/live/nadia_algerienne/jIzzr9XLnM/345.ts
+http://163.172.42.47:8000/get.php?username=antonioSAT&password=diasSAT&type=m3u
 
+http://root-iptv.is-found.org:25461/get.php?username=Jaye&password=Jaye&type=m3u
 
-#EXTINF:-1,XXX: SEXTREME
-http://149.202.72.15:8000/live/casa/casa/690.ts
-#EXTINF:-1,XXX: PENTHOUSE
-http://149.202.72.15:8000/live/casa/casa/510.ts
-#EXTINF:-1,XXX: VENUS
-http://149.202.72.15:8000/live/casa/casa/181.ts
-#EXTINF:-1,XXX: PLAYBOY
-http://149.202.72.15:8000/live/casa/casa/304.ts
-#EXTINF:-1,XXX HOT XXX
-http://149.202.72.15:8000/live/casa/casa/244.ts
-#EXTINF:-1,XXX: REDLIGHT HD
-http://149.202.72.15:8000/live/casa/casa/853.ts
-#EXTINF:-1,XXX: HUSTLER HD
-http://149.202.72.15:8000/live/casa/casa/856.ts
-#EXTINF:-1,XXX: SCT
-http://149.202.72.15:8000/live/casa/casa/805.ts
-#EXTINF:-1,XXX: SESTO SENSO TV
-http://149.202.72.15:8000/live/casa/casa/800.ts
-#EXTINF:-1,XXX: SCT HD
-http://149.202.72.15:8000/live/casa/casa/801.ts
-#EXTINF:-1,XXX: TGIRLS TV
-http://149.202.72.15:8000/live/casa/casa/799.ts
-#EXTINF:-1,XXX: PINK O TV
-http://149.202.72.15:8000/live/casa/casa/802.ts
-#EXTINF:-1,XXX: EXOTICA TV
-http://149.202.72.15:8000/live/casa/casa/803.ts
-#EXTINF:-1,XXX: CENTOXCENTO TV
-http://149.202.72.15:8000/live/casa/casa/804.ts
-#EXTINF:-1,xXx: Hot Club 1
-http://149.202.72.15:8000/live/casa/casa/1328.ts
-#EXTINF:-1,xXx: Hot Club 2
-http://149.202.72.15:8000/live/casa/casa/1327.ts
-#EXTINF:-1,xXx: Hot Club 3
-http://149.202.72.15:8000/live/casa/casa/1326.ts
-#EXTINF:-1,xXx: Hot Club 4
-http://149.202.72.15:8000/live/casa/casa/1325.ts
-#EXTINF:-1,xXx: Hot Club 5
-http://149.202.72.15:8000/live/casa/casa/1324.ts
-#EXTINF:-1,XXX: Hot Club 6
-http://149.202.72.15:8000/live/casa/casa/1323.ts
-#EXTINF:-1,XXX: Hot Club 7
-http://149.202.72.15:8000/live/casa/casa/1322.ts
-#EXTINF:-1,XXX: Hot Club 8
-http://149.202.72.15:8000/live/casa/casa/1321.ts
+http://137.74.93.219:8000/get.php?username=abdelkader&password=abdelkader&type=m3u
+
+http://5.189.187.55:8000/get.php?username=andre&password=andre&type=m3u
+
+http://two-brothers.dyndns.tv:8000/get.php?username=denis&password=denis&type=m3u
+
+http://www.wod-1.org:8000/get.php?username=201webtv&password=morra&type=m3u
+
+http://biwsat.com:8080/get.php?username=tpxMKQAgaK&password=3hGIP74cMX&type=m3u
+
+http://ringiptv.net:2500/get.php?username=fid&password=fid&type=m3u
+
+http://revendedor.amxiptv.club:8000/get.php?username=antonioSAT&password=diasSAT&type=m3u
+
+http://137.74.93.219:8000/get.php?username=brahim&password=brahim&type=m3u
+
+http://137.74.93.219:8000/get.php?username=farid&password=farid&type=m3u
+
+http://137.74.93.219:8000/get.php?username=fateh&password=fateh&type=m3u
+
+http://137.74.93.219:8000/get.php?username=fifi&password=fifi&type=m3u
+
+http://137.74.93.219:8000/get.php?username=ww&password=ww&type=m3u
+
+http://137.74.93.219:8000/get.php?username=tamer&password=tamer&type=m3u
+
+http://137.74.93.219:8000/get.php?username=nabil&password=nabil&type=m3u
+
+http://137.74.93.219:8000/get.php?username=nabil&password=nabil&type=m3u
+
+http://137.74.93.219:8000/get.php?username=mourad&password=mourad&type=m3u
+
+http://137.74.93.219:8000/get.php?username=marwa&password=marwa&type=m3u
+
+http://137.74.93.219:8000/get.php?username=kais&password=kais&type=m3u
+
+http://smart-iptv2016.com:9500/get.php?username=stream156&password=0610509511&type=m3u
 
 
-#EXTINF:-1,XXX: SEXTREME
-http://149.202.72.15:8000/live/marisa/marisa/690.ts
-#EXTINF:-1,XXX: PENTHOUSE
-http://149.202.72.15:8000/live/marisa/marisa/510.ts
-#EXTINF:-1,XXX: VENUS
-http://149.202.72.15:8000/live/marisa/marisa/181.ts
-#EXTINF:-1,XXX: PLAYBOY
-http://149.202.72.15:8000/live/marisa/marisa/304.ts
-#EXTINF:-1,XXX HOT XXX
-http://149.202.72.15:8000/live/marisa/marisa/244.ts
-#EXTINF:-1,XXX: REDLIGHT HD
-http://149.202.72.15:8000/live/marisa/marisa/853.ts
-#EXTINF:-1,XXX: HUSTLER HD
-http://149.202.72.15:8000/live/marisa/marisa/856.ts
-#EXTINF:-1,XXX: SCT
-http://149.202.72.15:8000/live/marisa/marisa/805.ts
-#EXTINF:-1,XXX: SESTO SENSO TV
-http://149.202.72.15:8000/live/marisa/marisa/800.ts
-#EXTINF:-1,XXX: SCT HD
-http://149.202.72.15:8000/live/marisa/marisa/801.ts
-#EXTINF:-1,XXX: TGIRLS TV
-http://149.202.72.15:8000/live/marisa/marisa/799.ts
-#EXTINF:-1,XXX: PINK O TV
-http://149.202.72.15:8000/live/marisa/marisa/802.ts
-#EXTINF:-1,XXX: EXOTICA TV
-http://149.202.72.15:8000/live/marisa/marisa/803.ts
-#EXTINF:-1,XXX: CENTOXCENTO TV
-http://149.202.72.15:8000/live/marisa/marisa/804.ts
-#EXTINF:-1,xXx: Hot Club 1
-http://149.202.72.15:8000/live/marisa/marisa/1328.ts
-#EXTINF:-1,xXx: Hot Club 2
-http://149.202.72.15:8000/live/marisa/marisa/1327.ts
-#EXTINF:-1,xXx: Hot Club 3
-http://149.202.72.15:8000/live/marisa/marisa/1326.ts
-#EXTINF:-1,xXx: Hot Club 4
-http://149.202.72.15:8000/live/marisa/marisa/1325.ts
-#EXTINF:-1,xXx: Hot Club 5
-http://149.202.72.15:8000/live/marisa/marisa/1324.ts
-#EXTINF:-1,XXX: Hot Club 6
-http://149.202.72.15:8000/live/marisa/marisa/1323.ts
-#EXTINF:-1,XXX: Hot Club 7
-http://149.202.72.15:8000/live/marisa/marisa/1322.ts
-#EXTINF:-1,XXX: Hot Club 8
-http://149.202.72.15:8000/live/marisa/marisa/1321.ts
-
-
-#EXTINF:-1,XXX: PassionXXX
-http://193.70.12.239:8080/live/ster/ster/1417.ts
-#EXTINF:-1,XXX: ***to Senso
-http://193.70.12.239:8080/live/ster/ster/1415.ts
-#EXTINF:-1,XXX: SCT HQ
-http://193.70.12.239:8080/live/ster/ster/1414.ts
-#EXTINF:-1,XXX: SCT HD
-http://193.70.12.239:8080/live/ster/ster/1413.ts
-#EXTINF:-1,XXX: Redlight HD
-http://193.70.12.239:8080/live/ster/ster/1412.ts
-#EXTINF:-1,XXX: Privee TV
-http://193.70.12.239:8080/live/ster/ster/1411.ts
-#EXTINF:-1,XXX: Platinum TV
-http://193.70.12.239:8080/live/ster/ster/1410.ts
-#EXTINF:-1,XXX: Pink o TV
-http://193.70.12.239:8080/live/ster/ster/1409.ts
-#EXTINF:-1,XXX: Hustler HD
-http://193.70.12.239:8080/live/ster/ster/1406.ts
-#EXTINF:-1,XXX: Hustler
-http://193.70.12.239:8080/live/ster/ster/1405.ts
-#EXTINF:-1,XXX: Venus
-http://193.70.12.239:8080/live/ster/ster/395.ts
-#EXTINF:-1,XXX: Private
-http://193.70.12.239:8080/live/ster/ster/398.ts
-#EXTINF:-1,XXX: *******
-http://193.70.12.239:8080/live/ster/ster/396.ts
-#EXTINF:-1,XXX: Penthouse
-http://193.70.12.239:8080/live/ster/ster/393.ts
-#EXTINF:-1,XXX: ***ato
-http://193.70.12.239:8080/live/ster/ster/399.ts
-#EXTINF:-1,XXX: Frenchlover TV
-http://193.70.12.239:8080/live/ster/ster/397.ts
-#EXTINF:-1,XXX: Brazzers
-http://193.70.12.239:8080/live/ster/ster/394.ts
-#EXTINF:-1,Fake Taxi
-http://193.70.12.239:8080/live/ster/ster/17406.ts
-#EXTINF:-1,Fake Taxi 2
-http://193.70.12.239:8080/live/ster/ster/17407.ts
-
-
-
-
-#EXTM3U
-#EXTINF:-1,XXX:Adult_1HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/380.ts
-#EXTINF:-1,XXX:Adult_2HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/381.ts
-#EXTINF:-1,XXX:Adult_3HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/382.ts
-#EXTINF:-1,XXX:Adult_4HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/383.ts
-#EXTINF:-1,XXX:Adult_5HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/384.ts
-#EXTINF:-1,XXX:Adult_6HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/385.ts
-#EXTINF:-1,XXX:Adult_7HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/386.ts
-#EXTINF:-1,XXX:Adult_8HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/387.ts
-#EXTINF:-1,XXX:Adult_9HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/388.ts
-#EXTINF:-1,XXX:Adult_10HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2117.ts
-#EXTINF:-1,XXX:Adult_11HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2118.ts
-#EXTINF:-1,XXX:Adult_12HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2119.ts
-#EXTINF:-1,XXX:Adult_13HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2120.ts
-#EXTINF:-1,XXX:Adult_14HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/1300.ts
-#EXTINF:-1,XXX:Adult_15HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/1408.ts
-#EXTINF:-1,XXX:Adult_16HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2114.ts
-#EXTINF:-1,XXX:Adult_17HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2115.ts
-#EXTINF:-1,XXX:Adult_18HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2110.ts
-#EXTINF:-1,XXX:Adult_19HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2111.ts
-#EXTINF:-1,XXX:Adult_20HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2112.ts
-#EXTINF:-1,XXX:Adult_21HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2113.ts
-#EXTINF:-1,XXX:Adult_22HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2019.ts
-#EXTINF:-1,XXX:Adult_23HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2020.ts
-#EXTINF:-1,XXX:Adult_24HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2021.ts
-#EXTINF:-1,XXX:Adult_25HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2022.ts
-#EXTINF:-1,XXX:Adult_26HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2023.ts
-#EXTINF:-1,XXX:Adult_27HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2024.ts
-#EXTINF:-1,XXX:Adult_28HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2025.ts
-#EXTINF:-1,XXX:Adult_29HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2026.ts
-#EXTINF:-1,XXX:Adult_30HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2027.ts
-#EXTINF:-1,XXX:Adult_31HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2028.ts
-#EXTINF:-1,XXX:Adult_32HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2029.ts
-#EXTINF:-1,XXX:Adult_33HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2030.ts
-#EXTINF:-1,XXX:Adult_34HD
-http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2109.ts
-
-#EXTINF:-1,VOD_Adult_Movie_1
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4093.mkv
-#EXTINF:-1,VOD_Adult_Movie_2
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4094.mkv
-#EXTINF:-1,VOD_Adult_Movie_3
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4095.mkv
-#EXTINF:-1,VOD_Adult_Movie_4
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4096.mkv
-#EXTINF:-1,VOD_Adult_Movie_5
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4097.mkv
-#EXTINF:-1,VOD_Adult_Movie_6
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4098.mkv
-#EXTINF:-1,VOD_Adult_Movie_7
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4099.mkv
-#EXTINF:-1,VOD_Adult_Movie_8
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4100.mkv
-#EXTINF:-1,VOD_Adult_Movie_9
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4101.mkv
-#EXTINF:-1,VOD_Adult_Movie_10
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4102.mkv
-#EXTINF:-1,VOD_Adult_Movie_11
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4103.mkv
-#EXTINF:-1,VOD_Adult_Movie_12
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4104.mkv
-#EXTINF:-1,VOD_Adult_Movie_13
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4105.mkv
-#EXTINF:-1,VOD_Adult_Movie_14
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4106.mkv
-#EXTINF:-1,VOD_Adult_Movie_15
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4107.mkv
-#EXTINF:-1,VOD_Adult_Movie_16
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4108.mkv
-#EXTINF:-1,VOD_Adult_Movie_17
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4109.mkv
-#EXTINF:-1,VOD_Adult_Movie_18
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4110.mkv
-#EXTINF:-1,VOD_Adult_Movie_19
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4111.mkv
-#EXTINF:-1,VOD_Adult_Movie_20
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4112.mkv
-#EXTINF:-1,VOD_Adult_Movie_21
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4113.mkv
-#EXTINF:-1,VOD_Adult_Movie_22
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4114.mkv
-#EXTINF:-1,VOD_Adult_Movie_23
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4115.mkv
-#EXTINF:-1,VOD_Adult_Movie_24
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4116.mkv
-#EXTINF:-1,VOD_Adult_Movie_25
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4117.mkv
-#EXTINF:-1,VOD_Adult_Movie_26
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4118.mkv
-#EXTINF:-1,VOD_Adult_Movie_27
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4119.mkv
-#EXTINF:-1,VOD_Adult_Movie_28
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4120.mkv
-#EXTINF:-1,VOD_Adult_Movie_29
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4121.mkv
-#EXTINF:-1,VOD_Adult_Movie_30
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4122.mkv
-#EXTINF:-1,VOD_Adult_Movie_31
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4123.mkv
-#EXTINF:-1,VOD_Adult_Movie_32
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4124.mkv
-#EXTINF:-1,VOD_Adult_Movie_33
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4125.mkv
-#EXTINF:-1,VOD_Adult_Movie_34
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4126.mkv
-#EXTINF:-1,VOD_Adult_Movie_35
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4127.mkv
-#EXTINF:-1,VOD_Adult_Movie_36
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4128.mkv
-#EXTINF:-1,VOD_Adult_Movie_37
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4129.mkv
-#EXTINF:-1,VOD_Adult_Movie_38
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4130.mkv
-#EXTINF:-1,VOD_Adult_Movie_39
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4131.mkv
-#EXTINF:-1,VOD_Adult_Movie_40
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4132.mkv
-#EXTINF:-1,VOD_Adult_Movie_41
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4133.mkv
-#EXTINF:-1,VOD_Adult_Movie_42
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4134.mkv
-#EXTINF:-1,VOD_Adult_Movie_43
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4135.mkv
-#EXTINF:-1,VOD_Adult_Movie_44
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4136.mkv
-#EXTINF:-1,VOD_Adult_Movie_45
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4137.mkv
-#EXTINF:-1,VOD_Adult_Movie_46
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4138.mkv
-#EXTINF:-1,VOD_Adult_Movie_47
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4139.mkv
-#EXTINF:-1,VOD_Adult_Movie_48
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4140.mkv
-#EXTINF:-1,VOD_Adult_Movie_49
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4141.mkv
-#EXTINF:-1,VOD_Adult_Movie_50
-http://www.tunisiaiptv.com:8000/movie/ateeq/ateeq/4142.mkv
-
-
-
-#EXTINF:-1,XXX:SCT SD
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2890.ts
-#EXTINF:-1,XXX SOFT SEX
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2885.ts
-#EXTINF:-1,XXX SEXTOSENTO TV
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2886.ts
-#EXTINF:-1,XXX PENTHOUSE HD1
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2889.ts
-#EXTINF:-1,XXX LADYBOY
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2888.ts
-#EXTINF:-1,XXX CENTO X CONTO
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2887.ts
-#EXTINF:-1,XX: Virgin
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2900.ts
-#EXTINF:-1,XX: sexhot
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2901.ts
-#EXTINF:-1,XX: SCT
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2902.ts
-#EXTINF:-1,XX: PRIVATE
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2903.ts
-#EXTINF:-1,XX: Primafila Hot Club 6 HD
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2896.ts
-#EXTINF:-1,XX: Primafila Hot Club 5 HD
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2895.ts
-#EXTINF:-1,XX: Primafila Hot Club 4 HD
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2894.ts
-#EXTINF:-1,XX: Primafila Hot Club 3 HD
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2893.ts
-#EXTINF:-1,XX: Primafila Hot Club 2 HD
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2892.ts
-#EXTINF:-1,XX: PLAYBOY
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2904.ts
-#EXTINF:-1,XX: PINK EROTIC 4
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2897.ts
-#EXTINF:-1,XX: PINK EROTIC 3
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2898.ts
-#EXTINF:-1,XX: PINK EROTIC 2
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2899.ts
-#EXTINF:-1,XX: PASSION XXX 18
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2911.ts
-#EXTINF:-1,XX: EXOTICA
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2909.ts
-#EXTINF:-1,XX: DORCEL
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2891.ts
-#EXTINF:-1,XX: brazzers
-http://cableking-iptv.com:8000/live/o1xIX7tv8G/lketjVViJA/2910.ts
-#EXTINF:-1,Adulti: Amazing TV
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23254.ts
-#EXTINF:-1,Adulti: Banana
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23255.ts
-#EXTINF:-1,Adulti: Brazzers TV Europe
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23249.ts
-#EXTINF:-1,Adulti: BS eXTreme 24
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23256.ts
-#EXTINF:-1,Adulti: But Go
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23257.ts
-#EXTINF:-1,Adulti: Candy
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23258.ts
-#EXTINF:-1,Adulti: DUSK
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23250.ts
-#EXTINF:-1,Adulti: Frenchlover
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23248.ts
-#EXTINF:-1,Adulti: Girls
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23259.ts
-#EXTINF:-1,Adulti: HOT AND WET
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23260.ts
-#EXTINF:-1,Adulti: HOT LIVE
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23253.ts
-#EXTINF:-1,Adulti: Live Sex Latinas
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23261.ts
-#EXTINF:-1,Adulti: LIVETing TV
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23262.ts
-#EXTINF:-1,Adulti: MvH Hard
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23251.ts
-#EXTINF:-1,Adulti: Okadai TV
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23263.ts
-#EXTINF:-1,Adulti: PassieXXX
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23252.ts
-#EXTINF:-1,Adulti: Penthouse Asia
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23264.ts
-#EXTINF:-1,Adulti: Play
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23265.ts
-#EXTINF:-1,Adulti: Playboy Asia
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23266.ts
-#EXTINF:-1,Adulti: XXX Asia
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23267.ts
-#EXTINF:-1,Primafila Hot Club 1 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23236.ts
-#EXTINF:-1,Primafila Hot Club 2 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23237.ts
-#EXTINF:-1,Primafila Hot Club 3 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23238.ts
-#EXTINF:-1,Primafila Hot Club 4 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23239.ts
-#EXTINF:-1,Primafila Hot Club 5 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23240.ts
-#EXTINF:-1,Primafila Hot Club 6 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23241.ts
-#EXTINF:-1,Primafila Hot Club 7 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23242.ts
-#EXTINF:-1,Primafila Hot Club 8 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23243.ts
-#EXTINF:-1,Primafila Hot Club 9 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23244.ts
-#EXTINF:-1,Primafila Hot Club 10 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23245.ts
-#EXTINF:-1,Primafila Hot Club 11 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23246.ts
-#EXTINF:-1,Primafila Hot Club 12 FHD
-http://speedymomy2.com:8000/live/test29292/dfuidu3893/23247.ts
-#EXTINF:-1,[XXX] TV Girl
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7954.ts
-#EXTINF:-1,[XXX] Sextosenso
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7955.ts
-#EXTINF:-1,[XXX] Satisfaction
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7956.ts
-#EXTINF:-1,[XXX] Red Light HD
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7957.ts
-#EXTINF:-1,[XXX] Pinko TV
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7958.ts
-#EXTINF:-1,[XXX] Hustler HD
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7959.ts
-#EXTINF:-1,[XXX] Exotica TV
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7960.ts
-#EXTINF:-1,[XXX] Dorcel HD
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7962.ts
-#EXTINF:-1,[XXX] Cento X Cento
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/7963.ts
-#EXTINF:-1,XXX TV Girl
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/620.ts
-#EXTINF:-1,XXX: SCT
-http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/2327.ts
+#EXTINF:-1,------- Adulti ---------
+http://163.172.6.8:8000/live/3mad/3mad/582.ts
+#EXTINF:-1,IT: Hot Club 1 HD
+http://163.172.6.8:8000/live/3mad/3mad/581.ts
+#EXTINF:-1,IT: Hot Club 2 HD
+http://163.172.6.8:8000/live/3mad/3mad/580.ts
+#EXTINF:-1,IT: Hot Club 3 HD
+http://163.172.6.8:8000/live/3mad/3mad/579.ts
+#EXTINF:-1,IT: Hot Club 4 HD
+http://163.172.6.8:8000/live/3mad/3mad/578.ts
+#EXTINF:-1,IT: Hot Club 5 HD
+http://163.172.6.8:8000/live/3mad/3mad/577.ts
+#EXTINF:-1,IT: Hot Club 6 HD
+http://163.172.6.8:8000/live/3mad/3mad/576.ts
+#EXTINF:-1,IT: Hot Club 7 HD
+http://163.172.6.8:8000/live/3mad/3mad/575.ts
+#EXTINF:-1,IT: Hot Club 8 HD
+http://163.172.6.8:8000/live/3mad/3mad/574.ts
+#EXTINF:-1,IT: Hot Club 9 HD
+http://163.172.6.8:8000/live/3mad/3mad/573.ts
+#EXTINF:-1,IT: Hot Club 10 HD
+http://163.172.6.8:8000/live/3mad/3mad/572.ts
+#EXTINF:-1,+18 playboy
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1803.ts
+#EXTINF:-1,+18 PRIVATE TV
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1517.ts
+#EXTINF:-1,+18 JASMIN TV
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1516.ts
+#EXTINF:-1,+18 Hot
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2007.ts
+#EXTINF:-1,+18 Brazzers HD
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2009.ts
+#EXTINF:-1,+18 Hustler HD
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2008.ts
+#EXTINF:-1,+18 Adult_15
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2006.ts
+#EXTINF:-1,+18 Adult_14
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2005.ts
+#EXTINF:-1,+18 Adult_13
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2004.ts
+#EXTINF:-1,+18 Adult_12
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2003.ts
+#EXTINF:-1,+18 Adult_11
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2002.ts
+#EXTINF:-1,+18 Adult_10
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2001.ts
+#EXTINF:-1,+18 Adult_9
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/2000.ts
+#EXTINF:-1,+18 Adult_8
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1999.ts
+#EXTINF:-1,+18 Adult_7
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1998.ts
+#EXTINF:-1,+18 Adult_6
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1513.ts
+#EXTINF:-1,+18 Adult_5
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1459.ts
+#EXTINF:-1,+18 Adult_4
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1460.ts
+#EXTINF:-1,+18 Adult_3
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1461.ts
+#EXTINF:-1,+18 Adult_2
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1465.ts
+#EXTINF:-1,+18 Adult_1
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/1476.ts
+#EXTINF:-1,EX YU: +18 pink_erotica 4
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/790.ts
+#EXTINF:-1,EX YU: +18 pink_erotica3
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/791.ts
+#EXTINF:-1,EX YU: +18 pink_erotica 2
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/792.ts
+#EXTINF:-1,EX YU: +18 pink_erotica 1
+http://globiptv.com:8000/live/11/n9Uuh1Cqbx/793.ts
+#EXTINF:-1,XXX | VIP CHANNEL
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/48.ts
+#EXTINF:-1,XXX | VIP CHANNEL 2
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/47.ts
+#EXTINF:-1,XXX | VIP CHANNEL 3
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/46.ts
+#EXTINF:-1,XXX | HUSTLER HD
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/43.ts
+#EXTINF:-1,XXX | BLUE HUSTLER TV
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/42.ts
+#EXTINF:-1,XXX | DORCEL TV HD
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/41.ts
+#EXTINF:-1,XXX | BRAZZERS HD
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/40.ts
+#EXTINF:-1,XXX | RU
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/39.ts
+#EXTINF:-1,XXX | SCT HQ
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/38.ts
+#EXTINF:-1,XXX | SCT 1
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/37.ts
+#EXTINF:-1,XXX | SCT 2
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/36.ts
+#EXTINF:-1,XXX | SCT 3
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/35.ts
+#EXTINF:-1,XXX | Redlight HD
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/34.ts
+#EXTINF:-1,XXX | YESILCAM ADULT
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/33.ts
+#EXTINF:-1,XXX | SEXTV
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2981.ts
+#EXTINF:-1,XXX | SCT1
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2982.ts
+#EXTINF:-1,XXX | REDHOTSEXTU
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2983.ts
+#EXTINF:-1,XXX | PRIVATESPACE
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2984.ts
+#EXTINF:-1,XXX | PORNOXHD
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2988.ts
+#EXTINF:-1,XXX | PENTHOUSE (FILBOX)
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/6323.ts
+#EXTINF:-1,XXX | PENTHOUSEHD
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2979.ts
+#EXTINF:-1,XXX | PASSIONXXX
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2987.ts
+#EXTINF:-1,XXX | MARCDORCELTV
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2985.ts
+#EXTINF:-1,XXX | DARINGTV
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2980.ts
+#EXTINF:-1,XXX | BABESTATIONXTREME
+http://sutverduz.com:8080/live/UW7uRpPyNR/xjysNTGuJ7/2986.ts
