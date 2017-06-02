@@ -20,7 +20,7 @@ def open_url(url, referer=None, data=None): #add optional headers ...
 
 class Chaturbate(object):
     debug = False
-    _REGEX_media = re.compile(r"loadHlsVideo\('(.*?)'\)")
+    _REGEX_media = re.compile(r"initHlsPlayer\(jsplayer, '(.*?)\?rp\=")
     BASE_URL        = "https://chaturbate.com"
     CATEGORY_URL    = {
         "Featured":     BASE_URL,
