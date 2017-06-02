@@ -1,13 +1,7 @@
 .project
 .pydevproject
 *.pyc
-*.pyc
-tools/__pycache__/zipgen.cpython-34.pyc
 *.prefs
-plugin.video.addon001/temp/sbtest.html
-plugin.video.addon001/temp/test.py
-temp/sbtest.html
-temp/test.py
 *.m3u
-temp/example/bh/bh1.txt
+/temp
 /update
