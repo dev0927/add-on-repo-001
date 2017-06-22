@@ -1,3 +1,5 @@
+[B]Version 1.0.1(22/6/2017):[/B]
+update
 [B]Version 1.0.0(20/6/2017):[/B]
 overhaul
 [B]Version 0.5.26(11/6/2017):[/B]
