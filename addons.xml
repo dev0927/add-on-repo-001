@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.addon001" name="Video Addon 001" version="1.0.10" provider-name="Dev0927">
+<addon id="plugin.video.addon001" name="Video Addon 001" version="1.0.11" provider-name="Dev0927">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
